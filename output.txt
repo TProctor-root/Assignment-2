@@ -1,0 +1,2505 @@
+Part One:
+Subdomain: www.ics.uci.edu	URLs processed: 104629
+Subdomain: today.uci.edu	URLs processed: 77
+Subdomain: tech.uci.edu	URLs processed: 8
+Subdomain: intranet.ics.uci.edu	URLs processed: 3
+Subdomain: www.cs.uci.edu	URLs processed: 40
+Subdomain: www.stat.uci.edu	URLs processed: 121
+Subdomain: www.informatics.uci.edu	URLs processed: 81
+Subdomain: cml.ics.uci.edu	URLs processed: 654
+Subdomain: cert.ics.uci.edu	URLs processed: 176
+Subdomain: vision.ics.uci.edu	URLs processed: 810
+Subdomain: futurehealth.ics.uci.edu	URLs processed: 166
+Subdomain: luci.ics.uci.edu	URLs processed: 57
+Subdomain: sconce.ics.uci.edu	URLs processed: 52
+Subdomain: duttgroup.ics.uci.edu	URLs processed: 1083
+Subdomain: asterix.ics.uci.edu	URLs processed: 157
+Subdomain: radicle.ics.uci.edu	URLs processed: 21
+Subdomain: emj.ics.uci.edu	URLs processed: 267
+Subdomain: sherlock.ics.uci.edu	URLs processed: 75
+Subdomain: hombao.ics.uci.edu	URLs processed: 47
+Subdomain: evoke.ics.uci.edu	URLs processed: 826
+Subdomain: mhcid.ics.uci.edu	URLs processed: 142
+Subdomain: mswe.ics.uci.edu	URLs processed: 44
+Subdomain: mcs.ics.uci.edu	URLs processed: 230
+Subdomain: webmail.ics.uci.edu	URLs processed: 3
+Subdomain: netreg.ics.uci.edu	URLs processed: 4
+Subdomain: swiki.ics.uci.edu	URLs processed: 2865
+Subdomain: ugradforms.ics.uci.edu	URLs processed: 1
+Subdomain: honors.ics.uci.edu	URLs processed: 47
+Subdomain: login.uci.edu	URLs processed: 5
+Subdomain: www.igb.uci.edu	URLs processed: 31
+Subdomain: www.michaelfranz.com	URLs processed: 117
+Subdomain: ngs.ics.uci.edu	URLs processed: 8419
+Subdomain: malek.ics.uci.edu	URLs processed: 27
+Subdomain: artifex.org	URLs processed: 80
+Subdomain: judithsolson.com	URLs processed: 28
+Subdomain: web.cs.ucla.edu	URLs processed: 42
+Subdomain: wics.ics.uci.edu	URLs processed: 2749
+Subdomain: support.ics.uci.edu	URLs processed: 98
+Subdomain: mse.ics.uci.edu	URLs processed: 0
+Subdomain: graphics.ics.uci.edu	URLs processed: 266
+Subdomain: isg.ics.uci.edu	URLs processed: 472
+Subdomain: se.ics.uci.edu	URLs processed: 0
+Subdomain: archive.ics.uci.edu	URLs processed: 9767
+Subdomain: fr.ics.uci.edu	URLs processed: 60
+Subdomain: xtune.ics.uci.edu	URLs processed: 25
+Subdomain: computableplant.ics.uci.edu	URLs processed: 623
+Subdomain: elnino.ics.uci.edu	URLs processed: 5
+Subdomain: mailman.ics.uci.edu	URLs processed: 228
+Subdomain: mailboss.ics.uci.edu	URLs processed: 0
+Subdomain: elms.ics.uci.edu	URLs processed: 0
+Subdomain: studentcouncil.ics.uci.edu	URLs processed: 23
+Subdomain: asterixdb.ics.uci.edu	URLs processed: 0
+Subdomain: vip.ics.uci.edu	URLs processed: 0
+Subdomain: map125.ics.uci.edu	URLs processed: 0
+Subdomain: sli.ics.uci.edu	URLs processed: 4558
+Subdomain: omni.ics.uci.edu	URLs processed: 0
+Subdomain: mondego.ics.uci.edu	URLs processed: 202
+Subdomain: seal.ics.uci.edu	URLs processed: 333
+Subdomain: i-sensorium.ics.uci.edu	URLs processed: 37
+Subdomain: cocoa-krispies.ics.uci.edu	URLs processed: 0
+Subdomain: tutors.ics.uci.edu	URLs processed: 98
+Subdomain: grape.ics.uci.edu	URLs processed: 32035
+Subdomain: sprout.ics.uci.edu	URLs processed: 27
+Subdomain: sdcl.ics.uci.edu	URLs processed: 517
+Subdomain: cbcl.ics.uci.edu	URLs processed: 2007
+Subdomain: perennialpolycultures.ics.uci.edu	URLs processed: 10
+Subdomain: chenli.ics.uci.edu	URLs processed: 406
+Subdomain: transformativeplay.ics.uci.edu	URLs processed: 503
+Subdomain: iasl.ics.uci.edu	URLs processed: 177
+Subdomain: jgarcia.ics.uci.edu	URLs processed: 96
+Subdomain: cwicsocal18.ics.uci.edu	URLs processed: 38
+Subdomain: cloudberry.ics.uci.edu	URLs processed: 141
+Subdomain: tippersweb.ics.uci.edu	URLs processed: 50
+Subdomain: sana.ics.uci.edu	URLs processed: 13
+Subdomain: ipf.ics.uci.edu	URLs processed: 0
+Subdomain: dynamo.ics.uci.edu	URLs processed: 196
+Subdomain: flamingo.ics.uci.edu	URLs processed: 4791
+Subdomain: www-db.ics.uci.edu	URLs processed: 290
+Subdomain: redmiles.ics.uci.edu	URLs processed: 42
+Subdomain: helpdesk.ics.uci.edu	URLs processed: 5
+Subdomain: labbie.ics.uci.edu	URLs processed: 0
+Subdomain: timesheet.ics.uci.edu	URLs processed: 0
+Subdomain: sparcfire.ics.uci.edu	URLs processed: 11
+Subdomain: pasteur.ics.uci.edu	URLs processed: 0
+Subdomain: frost.ics.uci.edu	URLs processed: 56
+Subdomain: fano.ics.uci.edu	URLs processed: 36353
+Subdomain: auge.ics.uci.edu	URLs processed: 0
+Subdomain: sourcerer.ics.uci.edu	URLs processed: 6
+Subdomain: www.datalab.uci.edu	URLs processed: 35
+Subdomain: kdd.ics.uci.edu	URLs processed: 481
+Subdomain: isr.uci.edu	URLs processed: 185
+Subdomain: ftp.ics.uci.edu	URLs processed: 0
+Subdomain: codeexchange.ics.uci.edu	URLs processed: 0
+Subdomain: dsm.ics.uci.edu	URLs processed: 0
+Subdomain: hobbes.ics.uci.edu	URLs processed: 56
+Subdomain: ipubmed.ics.uci.edu	URLs processed: 44
+Subdomain: motifmap.ics.uci.edu	URLs processed: 19
+Subdomain: matt-smith-v2.ics.uci.edu	URLs processed: 0
+Subdomain: alumni.ics.uci.edu	URLs processed: 0
+Subdomain: twitter.com	URLs processed: 4
+Subdomain: m.facebook.com	URLs processed: 500
+Subdomain: accounts.google.com	URLs processed: 211
+Subdomain: testlab.ics.uci.edu	URLs processed: 61
+Subdomain: psearch.ics.uci.edu	URLs processed: 26
+Subdomain: satware.ics.uci.edu	URLs processed: 0
+Subdomain: lolth.ics.uci.edu	URLs processed: 0
+Subdomain: www.isg.ics.uci.edu	URLs processed: 0
+Subdomain: jobs.ics.uci.edu	URLs processed: 0
+Subdomain: www.ucf.ics.uci.edu	URLs processed: 0
+Subdomain: aiclub.ics.uci.edu	URLs processed: 34
+Subdomain: hack.ics.uci.edu	URLs processed: 498
+Subdomain: yarra.ics.uci.edu	URLs processed: 0
+Subdomain: w3.ics.uci.edu	URLs processed: 0
+Subdomain: rambo.ics.uci.edu	URLs processed: 0
+Subdomain: sites.uci.edu	URLs processed: 17
+Subdomain: drzaius.ics.uci.edu	URLs processed: 0
+Subdomain: motifmap-rna.ics.uci.edu	URLs processed: 10
+Subdomain: tps.ics.uci.edu	URLs processed: 0
+Subdomain: tastier.ics.uci.edu	URLs processed: 24
+Subdomain: jujube.ics.uci.edu	URLs processed: 0
+Subdomain: chime.ics.uci.edu	URLs processed: 0
+Subdomain: cherry.ics.uci.edu	URLs processed: 0
+Subdomain: givargis.ics.uci.edu	URLs processed: 0
+Subdomain: alderis.ics.uci.edu	URLs processed: 61
+Subdomain: kgcs.ics.uci.edu	URLs processed: 0
+Subdomain: emj-pc.ics.uci.edu	URLs processed: 0
+Subdomain: cradl.ics.uci.edu	URLs processed: 211
+Subdomain: piki.ics.uci.edu	URLs processed: 0
+Subdomain: checkin.ics.uci.edu	URLs processed: 5
+Subdomain: nagios.ics.uci.edu	URLs processed: 0
+Subdomain: ganglia.ics.uci.edu	URLs processed: 979
+Subdomain: metaviz.ics.uci.edu	URLs processed: 0
+Subdomain: duke.ics.uci.edu	URLs processed: 0
+Subdomain: www.graphics.ics.uci.edu	URLs processed: 0
+Subdomain: esl.ics.uci.edu	URLs processed: 34
+Subdomain: mapgrid.ics.uci.edu	URLs processed: 0
+Subdomain: www.antconcepts.com	URLs processed: 24
+Subdomain: scale.ics.uci.edu	URLs processed: 47
+Subdomain: dblp.ics.uci.edu	URLs processed: 0
+Subdomain: www.ganjisaffar.com	URLs processed: 0
+Subdomain: asterix-gerrit.ics.uci.edu	URLs processed: 1
+Subdomain: wearablegames.ics.uci.edu	URLs processed: 54
+Subdomain: ambassadors.ics.uci.edu	URLs processed: 0
+Subdomain: secure.connect.uci.edu	URLs processed: 27
+Subdomain: dataguard.ics.uci.edu	URLs processed: 0
+Subdomain: dataprotector.ics.uci.edu	URLs processed: 0
+Subdomain: nile.ics.uci.edu	URLs processed: 0
+Subdomain: awareness.ics.uci.edu	URLs processed: 0
+Subdomain: seraja.ics.uci.edu	URLs processed: 0
+Subdomain: caesar.ics.uci.edu	URLs processed: 0
+Subdomain: hana.ics.uci.edu	URLs processed: 0
+Subdomain: www1.ics.uci.edu	URLs processed: 0
+Subdomain: gbolcer.ics.uci.edu	URLs processed: 0
+
+Part Two:
+Page with most valid outlinks: http://fano.ics.uci.edu/cites/Publication/
+Link Count:2404
+
+Part Three:
+List of URLs:
+https://www.ics.uci.edu/community/news/view_news
+https://www.sigalert.com/map.asp
+http://www.ics.uci.edu/community/news/press/view_press
+http://evoke.ics.uci.edu/newsite/
+https://www.ics.uci.edu/faculty/
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php
+https://www.ics.uci.edu/faculty/faculty_dept
+https://today.uci.edu/signup
+https://today.uci.edu/calendar/week
+https://twitter.com/search
+https://www.ics.uci.edu/community/news/press/view_press
+https://www.faculty.uci.edu/profile.cfm
+https://www.nsf.gov/awardsearch/showAward
+http://iot4health.utu.fi/
+https://www.ics.uci.edu/community/news/view_news.php
+https://projectreporter.nih.gov/project_info_description.cfm
+https://www.youtube.com/watch
+https://www.nsf.gov/funding/pgm_summ.jsp
+http://snap.uci.edu/viewXmlFile.jsp
+http://www.ehs.uci.edu/apps/zones/info/zonedata.jsp
+https://www.cs.uci.edu/events/seminar-series/
+https://www.ics.uci.edu/community/news/articles/view_article
+http://www.ics.uci.edu/community/news/articles/view_article
+http://www.sigalert.com/map.asp
+http://www.ics.uci.edu/faculty/profiles/view_faculty.php
+http://cml.ics.uci.edu/
+http://www.nsf.gov/awardsearch/showAward.do
+http://futurehealth.ics.uci.edu/wp-content/ifh/uploads/Cybernetic-Health.pdf
+http://www.nsf.gov/funding/pgm_summ.jsp
+http://www.nsf.gov/awardsearch/showAward
+http://link.aip.org/link/
+https://hombao.ics.uci.edu/
+https://evoke.ics.uci.edu/newsite/
+https://support.google.com/mail/bin/answer.py
+https://support.google.com/mail/troubleshooter/1668960
+http://support.google.com/
+https://support.google.com/accounts/topic/7189195
+https://netreg.ics.uci.edu/index.php
+https://swiki.ics.uci.edu/doku.php/announce:announce
+http://jigsaw.w3.org/css-validator/check/referer
+https://ugradforms.ics.uci.edu/index.php
+https://www.ics.uci.edu/faculty/index.php
+https://scholar.google.com/citations
+http://www.igb.uci.edu/~pfbaldi/
+http://scholar.google.com/citations
+http://mitpress.mit.edu/book-home.tcl
+https://map.uci.edu/
+https://nsf.gov/awardsearch/showAward
+https://dl.acm.org/citation.cfm
+https://cve.mitre.org/cgi-bin/cvename.cgi
+http://www.cve.mitre.org/cgi-bin/cvename.cgi
+http://www.ics.uci.edu/community/news/view_news.php
+http://nsf.gov/awardsearch/showAward.do
+http://nsf.gov/awardsearch/showAward
+http://www.google.com/search
+http://dl.acm.org/citation.cfm
+http://dl.acm.org/authorize
+http://ieeexplore.ieee.org/xpls/abs_all.jsp
+http://www.springer.com/computer/journal/450/PS2
+https://www.dropbox.com/s/stkyxmslmxj66wg/IEEE%20MM%20Visual%20Web.pdf
+http://www.rsasecurity.com/rsalabs/node.asp
+http://www.springer.de/cgi/svcat/search_book.pl
+http://www.youtube.com/watch
+http://s29.sitemeter.com/stats.asp
+http://www.press.umich.edu/titleDetailDesc.do
+http://portal.acm.org/citation.cfm
+http://mitpress.mit.edu/catalog/item/default.asp
+https://wordpress.com/
+http://oss2013.case.unibz.it/
+http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast
+http://www.regonline.com/eventinfo.asp
+http://www.calit2.net/newsroom/release.php
+http://www.calit2.net/newsroom/article.php
+https://www.fastlane.nsf.gov/servlet/showaward
+http://ieeexplore.ieee.org/xpl/tocresult.jsp
+http://ieeexplore.ieee.org/stamp/stamp.jsp
+http://portal.acm.org/toc.cfm
+http://www.cambridge.org/us/catalogue/catalogue.asp
+http://www.gatech.edu/news-room/release.php
+http://norfolk.cs.washington.edu/htbin-post/unrestricted/colloq/details.cgi
+http://www.dagstuhl.de/en/program/calendar/semhp/
+http://e2i.ist.ucf.edu/index.php
+http://www.se-radio.net/
+https://dl.acm.org/event.cfm
+https://ieeexplore.ieee.org/stamp/stamp.jsp
+http://www.namepa.org/
+https://itch.io/search
+https://www.youtube.com/playlist
+https://sites.google.com/view/vgdcuci/events/gdw
+https://ucirvinesports.com/roster.aspx
+https://ucirvinesports.com/splash.aspx
+http://josh.thegeekmovement.com/
+https://www.facebook.com/pg/HangryStudios/about/
+https://books.google.com/books/about/Understanding_Video_Games.html
+https://www.c-span.org/person/
+https://www.c-span.org/organization/
+https://www.c-span.org/video/
+https://www.nsf.gov/news/news_summ.jsp
+http://www.oir.uci.edu/files/adm/IA19-fall-fr-select-yield-by-major.pdf
+http://www.oir.uci.edu/files/deg/IVA02FS-degree-type-by-major.pdf
+http://www.oir.uci.edu/files/enr/IIA30-enr-by-sch-and-gender.pdf
+http://engage.alumni.uci.edu/s/1735/alumni/index1col.aspx
+http://www.ics.uci.edu/community/news/articles/index.php
+https://support.ics.uci.edu/laptops/index.php
+http://validator.w3.org/check
+http://www.faculty.uci.edu/profile.cfm
+http://researcher.watson.ibm.com/researcher/view.php
+http://www.fxpal.com/
+http://www.ics.uci.edu/grad/courses/details.php
+http://www.ireport.com/ir-topic-stories.jspa
+https://www.enstg.com/signup/passthru.cfm
+http://www.easychair.org/conferences/
+https://duttgroup.ics.uci.edu/publications/
+http://v1.nedstatbasic.net/stats
+http://emj.ics.uci.edu/
+https://emj.ics.uci.edu/wp-login.php
+http://www.fastlane.nsf.gov/servlet/showaward
+http://ieeexplore.ieee.org/xpl/freeabs_all.jsp
+https://evoke.ics.uci.edu/
+https://www.mbtionline.com/
+https://www.linkup.com/search/results/software-+-intern-jobs
+https://support.ics.uci.edu/ltb/
+https://elnino.ics.uci.edu/index.php
+https://support.google.com/accounts/answer/1721977
+http://mail.google.com/support/bin/answer.py
+https://support.google.com/mail/answer/6579
+https://swiki.ics.uci.edu/doku.php/services:webmail
+https://swiki.ics.uci.edu/doku.php/start
+https://helpdesk.ics.uci.edu/Ticket/Display.html
+https://www.dropbox.com/s/4vmk1efntydpezr/SF5-CS.5%2BaxisRatio.5.tsv
+http://catalogue.uci.edu/search/
+https://eee.uci.edu/toolbox/roomfinder/room.php
+https://uci.yuja.com/V/Video
+https://drive.google.com/open
+https://eee.uci.edu/toolbox/roomfinder/class.php
+https://www.cse.umich.edu/eecs/research/techreports/cse_tr/database/reports.cgi
+http://www.djp3.net/
+http://fohs.bgu.ac.il/research/PersonalWebSite1main.aspx
+https://portal.acm.org/citation.cfm
+http://www.cadytech.com/dumas/work.asp
+http://journals.plos.org/plosone/article
+http://www.wkap.nl/prod/b/1-4020-7111-6
+http://www.perceptionweb.com/abstract.cgi
+http://www.robustvision.net/leaderboard.php
+http://robustvision.net/leaderboard.php
+https://drive.google.com/drive/folders/1K2bCmz_mldIhV1e3hCbtBrARZR_0bylm
+http://medschool.umaryland.edu/facultyresearchprofile/viewprofile.aspx
+http://search.ancestry.com/search/db.aspx
+http://www.myheritage.com/research
+http://www.findagrave.com/cgi-bin/fg.cgi
+https://aad.archives.gov/aad/series-list.jsp
+https://www.searchquarry.com/namesearch/death-records-lookup/
+http://www.stevemorse.org/vital/illdeath.html
+http://www.mjcpl.org/historyrescue/records/
+http://records.jacksongov.org/search.asp
+http://www.footnote.com/documents/67980104/cuyahoga_county_oh_birth_returns/
+http://www.qcmemory.org/Page/Local_Index_Databases.aspx
+http://seekingmichigan.org/discover-collection
+http://data.jewishgen.org/wconnect/wc.dll
+http://friedhof.ikg-wien.at/search.asp
+http://yvng.yadvashem.org/index.html
+http://209.140.72.162/cgi-bin/genealogy/surname
+https://szukajwarchiwach.pl/29/1472/0/str/1/1000
+https://szukajwarchiwach.pl/29/str/4/100
+https://szukajwarchiwach.pl/29/84/0/str/1/100
+https://szukajwarchiwach.pl/29/86/0/str/1/100
+https://szukajwarchiwach.pl/29/87/0/str/1/100
+https://mbc.malopolska.pl/dlibra/publication
+http://genealogyindexer.org/forum/viewtopic.php
+http://sli.ics.uci.edu/Classes/Classes
+http://sli.ics.uci.edu/Main/HomePage
+http://www.kmob.com/pages/bio_template.cfm
+http://sli.ics.uci.edu/Ihler-Photos/Main
+http://sli.ics.uci.edu/Group/Group
+https://cml.ics.uci.edu/
+http://ubiquity.acm.org/article.cfm
+http://eee.uci.edu/toolbox/mla/message_list.php
+http://papers.ssrn.com/sol3/papers.cfm
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp
+https://papers.ssrn.com/sol3/papers.cfm
+http://www.inderscience.com/browse/index.php
+http://ieeexplore.ieee.org/search/wrapper.jsp
+http://calendar.ics.uci.edu/calendar.php
+http://www.youtube.com/watch_popup
+http://apps.adcom.uci.edu/expresso/econtent/Content.do
+http://murl.microsoft.com/LectureDetails.asp
+http://citeseerx.ist.psu.edu/viewdoc/summary
+http://ieeexplore.ieee.org/document/7337368/
+http://www.cambridge.org/us/knowledge/isbn/item6542017/
+http://www.research.microsoft.com/scripts/pubs/view.asp
+https://www.geo.uzh.ch/geolean/en/units/rsl/staff/
+https://drive.google.com/file/d/18if8WGqHT4eJY2OpEUr20wxgjGZjLX2p/view
+https://grape.ics.uci.edu/wiki/asterix/wiki/stats170ab-2018
+http://ieeexplore.ieee.org/iel5/32/35873/01702006.pdf
+http://dl.acm.org/author_page.cfm
+http://www.techreview.com/tr100/profile.php3
+http://s25.sitemeter.com/stats.asp
+https://www.openintro.org/stat/textbook.php
+http://illuminations.nctm.org/Activity.aspx
+http://illuminations.nctm.org/LessonDetail.aspx
+http://portal.acm.org/beta/citation.cfm
+http://www.igi-global.com/bookstore/Chapter.aspx
+http://public.tepper.cmu.edu/facultydirectory/FacultyDirectoryProfile.aspx
+http://www.cos.cs.cmu.edu/student.php
+https://www.instagram.com/eliipik/
+http://www.wnt.com.pl/wnt/ksiazki.nsf/aktualnosci
+http://www.wnt.com.pl/wnt/ksiazki.nsf/uid/980708120250COTDOL-3W7DTE
+http://www.wnt.com.pl/wnt/ksiazki.nsf/nowosci
+http://www.wnt.com.pl/wnt/ksiazki.nsf/zapowiedzi
+http://www.wnt.com.pl/wnt/koszyki.nsf/mybasket
+http://www.wnt.com.pl/wnt/ksiazki.nsf/promocje
+http://www.wnt.com.pl/wnt/sesje.nsf/logon
+http://www.wnt.com.pl/wnt/ksiazki.nsf/uid/981119115055CODOMO42DEQU
+http://www.wnt.com.pl/wnt/ksiazki.nsf/uid/000211121928CBAMR4GEFAP
+http://www.genomeweb.com//node/936293
+http://www.pubmedcentral.nih.gov/picrender.fcgi
+http://www.broad.mit.edu/cgi-bin/news/display_news.cgi
+https://cbcl.ics.uci.edu/doku.php/teaching/cs285s14/start
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi
+http://www.ncbi.nlm.nih.gov/books/bv.fcgi
+https://cbcl.ics.uci.edu/doku.php/start
+https://www.linkedin.com/in/davide-callegaro/
+http://www.ncbi.nlm.nih.gov/pubmed/
+https://jgarcia.ics.uci.edu/
+http://ieeexplore.ieee.org/document/8123485/
+https://www.amazon.com/dp/B011I5QMRA/ref=dp-kindle-redirect
+https://drive.google.com/file/d/1gM2ymwWGGZo6EmztF0Isyoovm6VYVdM0/view
+https://drive.google.com/file/d/158vPKA7SwKiUVw_HNGpgkbipx-cock4F/view
+https://drive.google.com/file/d/1cN6q7ekjSDCuyHfcTd-GndSzrl7lgoAh/view
+https://drive.google.com/file/d/1agbt2yPMUz1HIxPfNFlFdLmYXLoeMXGW/view
+https://drive.google.com/file/d/1M7Slq3825-QuS35YGnI_v4C_ULwh73mU/view
+https://drive.google.com/file/d/1yANWfXUlh-C-Hmj5WUVteI1VKhN8chYc/view
+https://drive.google.com/file/d/14zdX88gY90fa5V8y75mXWqXVyRd8e8qK/view
+https://drive.google.com/file/d/1LjTa1WHQqNzcjsB1qKipMoCQzc6OKTJk/view
+https://drive.google.com/file/d/1bJ6cHN9EwZhhPu4gCFgjPKo6rgUKKDW8/view
+https://drive.google.com/file/d/1qv9gh49Wnj00gNn1-8ImwkpS1Rp5FtyW/view
+https://drive.google.com/file/d/1bW6HZgXFeTUN0EQHNAJ-Gi45Kl9eZxtt/view
+https://drive.google.com/file/d/1cpczHkM5Aq3i4cy3uBiNzirZV3GtZ3BI/view
+https://drive.google.com/file/d/1IO1j_WSH2kkYuOp8qJm8v6OgWRz3hS8s/view
+https://drive.google.com/file/d/1FkfJk140hFrndMJsOMwOii5KSQX6RII5/view
+https://drive.google.com/file/d/1TefBAshRaSpwCGHPMn7HcJ8DmdGxYK6d/view
+https://drive.google.com/file/d/1-tARSn4nw8zv76Zn5UgJs4teJjDaqWss/view
+https://drive.google.com/file/d/1d4Ja6FovMKgbNDP_aZkabiVDYvkpw7ue/view
+https://drive.google.com/file/d/1xXyPOxIY9sg81YvvdVe7C5N5a6Pf2a8W/view
+https://drive.google.com/file/d/1vZK4PMH41WENT8LQyS9ITz_PPtmjy7fn/view
+https://drive.google.com/file/d/10u5wwCkK4IutgPbU6zkaHouCi26DxvnK/view
+https://drive.google.com/file/d/1JWcir0lrCQxjm8jQITp6dGgFiKw8O9o9/view
+https://drive.google.com/file/d/1mqLxlA7CBFANCWzjYpoAahXNjn1CeCal/view
+https://drive.google.com/file/d/1pqe4p8kY5YvdnnuHVJ2-uPGoQ79_A-Pw/view
+http://www.addthis.com/bookmark.php
+http://libguides.lib.uci.edu/content.php
+https://drive.google.com/file/d/0ByXU8gAAONgoS0ptaWRlUVJpVlE/view
+https://wics.ics.uci.edu/exploreics/
+https://drive.google.com/file/d/1djOrw4ju-EPH-omngaM143fNdIGLv0ML/view
+https://www.ics.uci.edu/community/news/articles/index.php
+http://freshmeat.net/projects/straw/
+https://nettiopsu.utu.fi/opas/teaching/course.htm
+http://wics.ics.uci.edu/
+https://wics.ics.uci.edu/events/
+https://wics.ics.uci.edu/inittogether/
+https://wics.ics.uci.edu/aspireit-2018/
+https://wics.ics.uci.edu/wics-2018-bytes-of-code/
+https://wics.ics.uci.edu/aspireit-2017/
+https://wics.ics.uci.edu/girlsknowcs-conference/
+https://wics.ics.uci.edu/wics-fall-quarter-week-10-wics-potluck/
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php
+http://www.ics.uci.edu/faculty/faculty_dept
+http://3dtv-con.org/
+http://www.starwoodhotels.com/westin/property/overview/index.html
+http://ieeexplore.ieee.org/document/7492868/
+https://diglib.eg.org/handle/10.2312/pgs.20141255.073-078
+http://citeseerx.ist.psu.edu/viewdoc/download
+http://www.actapress.com/PaperInfo.aspx
+https://www.dropbox.com/s/bvfg1hsqv0kolx4/chaapaar%20chost.apk
+http://www.wpafb.af.mil/news/story.asp
+http://t.extreme-dm.com/
+https://www.ics.uci.edu/grad/courses/details.php
+http://www.today.uci.edu/features/profile_detail.asp
+http://www.eetimes.com/showArticle.jhtml
+http://www.amazon.com/gp/pdp/profile/A30QA7HMWZH0N0
+http://kanimozhi.org.in/kanimozhi/
+http://rescue-ibm.calit2.uci.edu:8070/forum/viewforum.php
+http://professor.kyungwon.ac.kr/main/main.jsp
+https://www.hackerrank.com/mcafeekeyhelp
+https://www.ideals.illinois.edu/bitstream/handle/2142/42044/352.pdf
+https://evoke.ics.uci.edu/newsite/wp-login.php
+http://www.ofas.uci.edu/content/costs.aspx
+https://swiki.ics.uci.edu/doku.php/announce:winter-2019
+https://swiki.ics.uci.edu/doku.php/projects:maint-winter-2019
+https://swiki.ics.uci.edu/doku.php/announce:fall-2018
+https://swiki.ics.uci.edu/doku.php/projects:maint-fall-2018
+https://swiki.ics.uci.edu/doku.php/announce:summer-2018
+https://swiki.ics.uci.edu/doku.php/projects:maint-summer-2018
+https://swiki.ics.uci.edu/doku.php/slides
+https://swiki.ics.uci.edu/doku.php/brownbags
+http://www.bestpractical.com
+http://vig.prenhall.com/ec
+https://eee.uci.edu/toolbox/dropbox/index.php
+https://scholar.google.co.uk/citations
+http://www.computingreviews.com/recommend/bestof/notableitems.cfm
+http://www.ics.uci.edu/grad/profiles/index.php
+http://totemdb.whu.edu.cn/dasfaa2013/index.php
+http://elearnmag.acm.org/archive.cfm
+http://ir.constellation.com/releasedetail.cfm
+http://www.technologyreview.com/blog/arxiv/27252/
+http://dbs.ilectures.curtin.edu.au/lectopia/lectopia.lasso
+http://www.nsf.gov/news/news_summ.jsp
+http://blog.facebook.com/blog.php
+http://www.nsf.gov/publications/pub_summ.jsp
+http://aspn.activestate.com/ASPN/Cookbook/Python
+http://ieeexplore.ieee.org/document/6979047/
+http://wims.unice.fr/~wims/wims.cgi
+http://www.akpeters.com/product.asp
+http://groups.google.com/groups
+http://www.boardgamegeek.com/viewitem.php3
+http://www.nsf.gov/div/index.jsp
+https://drive.google.com/folderview
+http://cinquin.org.uk/
+http://dl.acm.org/authorize.cfm
+http://research.microsoft.com/apps/pubs/default.aspx
+http://sli.ics.uci.edu/Code/GPRTimeshift
+http://sli.ics.uci.edu/Code/-
+https://sli.ics.uci.edu/Site/Search
+http://sli.ics.uci.edu/Projects/Projects
+http://sli.ics.uci.edu/Code/Code
+https://sli.ics.uci.edu/Classes/Classes
+http://sli.ics.uci.edu/Classes/2016S-274b
+http://sli.ics.uci.edu/Classes/2016W-178
+http://sli.ics.uci.edu/Classes/2015F-179
+http://sli.ics.uci.edu/Classes/2015W-178
+http://sli.ics.uci.edu/Classes/2015W-273a
+http://sli.ics.uci.edu/Classes/2014S-274b
+http://sli.ics.uci.edu/Classes/2014W-178
+http://sli.ics.uci.edu/Classes/2013F-273a
+http://sli.ics.uci.edu/Classes/2013-iCamp
+http://sli.ics.uci.edu/Classes/2013S-77B
+http://sli.ics.uci.edu/Classes/2012F-178
+http://sli.ics.uci.edu/Classes/2012F-273a
+http://sli.ics.uci.edu/Classes/2012S-274b
+http://sli.ics.uci.edu/Classes/2012W-178
+http://webscope.sandbox.yahoo.com/catalog.php
+http://sli.ics.uci.edu/Classes/2011F-171
+http://sli.ics.uci.edu/Classes/2011S-271
+http://sli.ics.uci.edu/Classes/2011S-274a
+http://sli.ics.uci.edu/Classes/2011W-178
+http://sli.ics.uci.edu/Classes/2010S-295
+http://www.nowpublishers.com/getpdf.aspx
+http://sli.ics.uci.edu/Classes/2010W-178
+http://sli.ics.uci.edu/Classes/2010W-274a
+http://sli.ics.uci.edu/Classes/2009S
+http://sli.ics.uci.edu/Classes/2009W
+http://sli.ics.uci.edu/Classes-2008F/Main
+http://sli.ics.uci.edu/Classes/2008F
+http://sli.ics.uci.edu/Classes/2008CSE
+http://sli.ics.uci.edu/Classes/2008S
+http://sli.ics.uci.edu/Classes/2008W
+https://sli.ics.uci.edu/Main/HomePage
+http://sli.ics.uci.edu/Projects/GraphicalModels
+http://sli.ics.uci.edu/Projects/Sensor
+http://sli.ics.uci.edu/Projects/DataMining
+http://sli.ics.uci.edu/Pubs/Pubs
+https://sli.ics.uci.edu/Ihler-Photos/Main
+http://sli.ics.uci.edu/Ihler-Photos/Africa
+http://sli.ics.uci.edu/Ihler-Photos/Japan
+http://sli.ics.uci.edu/Ihler-Photos/Bobby
+https://sli.ics.uci.edu/Group/Group
+https://scholar.google.co.in/citations
+http://store.elsevier.com/product.jsp
+http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp
+https://checkin.ics.uci.edu/index.php
+http://bcs.wiley.com/he-bcs/Books
+http://www.ics.uci.edu/ugrad/policies/index.php
+https://today.uci.edu/department/information_computer_sciences
+http://disqus.com/
+http://mondego.ics.uci.edu/datasets/wikipedia-events/
+https://isg.ics.uci.edu/publications/
+https://www.facebook.com/UCI-ISG-965050277023871/
+http://www.itp.ucsb.edu/activities/auto2/
+http://www.businessinsider.com/shopa-british-startup-winding-down-2015-8
+http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php
+https://openreview.net/forum
+http://research.microsoft.com/apps/pubs/
+http://www.cambridge.org/us/knowledge/isbn/item2707877/
+http://www.senate.uci.edu/senateweb/printed.asp
+http://bugs.sun.com/bugdatabase/view_bug.do
+http://mags.acm.org/communications/200801/
+http://www.pinkhairedgirl.com/
+http://www.ncpp.org/
+http://mathforum.org/kb/forum.jspa
+http://www.spr.ac.uk/index.php3
+http://www.facebook.com/profile.php
+https://sdcl.ics.uci.edu/wp-login.php
+http://www.weather.com/weather/local/USHI0033
+https://itunes.apple.com/us/app/instant-pubmed-for-iphone/id569117518
+https://itunes.apple.com/us/app/instant-pubmed-for-ipad/id660960919
+https://cbcl.ics.uci.edu/doku.php
+https://cbcl.ics.uci.edu/doku.php/publications
+https://cbcl.ics.uci.edu/doku.php/software
+https://cbcl.ics.uci.edu/doku.php/data
+https://cbcl.ics.uci.edu/doku.php/people
+https://cbcl.ics.uci.edu/doku.php/teaching
+https://cbcl.ics.uci.edu/doku.php/contact
+https://cbcl.ics.uci.edu/doku.php/internal_index
+https://researcher.watson.ibm.com/researcher/view.php
+http://wp.sigmod.org/
+http://itunes.apple.com/us/app/omniplaces/id466162583
+http://www.wikicfp.com/cfp/servlet/event.showcfp
+http://projectreporter.nih.gov/project_info_description.cfm
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter
+http://www.w3schools.com/asp/showasp.asp
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall
+https://transformativeplay.ics.uci.edu/
+http://www.ics.uci.edu/community/news/view_news
+https://www.dropbox.com/s/ieetmqe229y2wak/josh-cv.pdf
+https://softarch.usc.edu/wiki/doku.php
+http://www.cnbc.com/id/29408064/Highest_Paid_Bachelor_s_Degrees_2010
+https://easychair.org/conferences/
+http://www.youtube.com/user/UCIBrenICS/search
+https://wics.ics.uci.edu/event/winter-quarter-first-general-meeting/
+https://wics.ics.uci.edu/events/2019-01-16/
+https://wics.ics.uci.edu/event/interview-prep-workshop/
+https://wics.ics.uci.edu/event/mock-technical-interview/
+https://wics.ics.uci.edu/events/2019-01-23/
+https://wics.ics.uci.edu/event/vmware-info-session/
+https://wics.ics.uci.edu/events/2019-01-30/
+https://wics.ics.uci.edu/event/battle-of-the-mentorships/
+https://wics.ics.uci.edu/wics-fall-quarter-week-9-casino-night/
+https://wics.ics.uci.edu/wics-fall-quarter-week-5-mentorship-reveal/
+https://twitter.com/signup
+https://m.facebook.com/reg/
+https://m.facebook.com/help/
+https://accounts.google.com/TOS
+http://www.google.com/support/accounts
+https://wics.ics.uci.edu/women-empowering-women-lunch-2018/
+https://wics.ics.uci.edu/spring-quarter-2017-week-3-blizzard-tour/
+https://wics.ics.uci.edu/spring-quarter-2017-week-3-riot-tour/
+http://prezi.com/mysixcapg0sx/
+http://cnl.salk.edu/People/Person/
+http://www.cacr.caltech.edu/main/
+http://directory.uci.edu/index.php
+http://www.research.att.com/editions/201208_home.html
+http://learn.uci.edu/oo/getLearnPage2.php
+http://www.springer.com/dal/home/generic/search/results
+http://projectreporter.nih.gov/project_info_details.cfm
+http://www.ipstat.com/cgi-bin/stats
+http://www.worldscinet.com/jbcb/mkt/archive.shtml
+http://dev.biologists.org/cgi/content/abstract/131/17/4225
+http://www.huntington.org/huntingtonlibrary.aspx
+http://huntington.org/huntingtonlibrary.aspx
+http://s33.sitemeter.com/stats.asp
+http://www.facebook.com/events/335386373170535/
+http://www.facebook.com/event.php
+https://www.facebook.com/pg/aiatuci/events/
+https://www.facebook.com/media/set/
+http://www.wwwords.co.uk/rss/abstract.asp
+https://www.ics.uci.edu/grad/profiles/index.php
+https://nips.cc/Conferences/2017/Schedule
+http://nips.cc/Conferences/2010/Program/event.php
+http://www.mkp.com/books_catalog/catalog.asp
+http://reasoning.cs.ucla.edu/fetch.php
+https://ncstrl.cs.princeton.edu/expand.php3
+https://www.ams.org/mathscinet-getitem
+https://www.dia.uniroma3.it/~compunet/www/view/person.php
+https://www-pr.informatik.uni-tuebingen.de/
+https://math.mit.edu/directory/profile.php
+https://www.ibr.cs.tu-bs.de/users/fekete/
+https://youtu.be/E-7cmjqEbbY
+http://www.akpeters.com/book.asp
+http://www.dia.uniroma3.it/~compunet/www/view/person.php
+http://www.ibr.cs.tu-bs.de/users/fekete/
+http://math.mit.edu/directory/profile.php
+http://www-pr.informatik.uni-tuebingen.de/
+http://ncstrl.cs.princeton.edu/expand.php3
+http://www.ams.org/mathscinet-getitem
+http://youtu.be/E-7cmjqEbbY
+http://mathforum.org/kb/message.jspa
+http://web.archive.org/web/20041011115101/http://www.izzycat.org/math/index.php
+http://www.obliquity65.com/
+http://web.archive.org/web/20040803224710/http://www.izzycat.org/math/index.php
+http://www.photo.net/photodb/photo
+http://www.walkerbooks.com/books/catalog.php
+http://www.oedilf.com/db/Lim.php
+http://dataisnature.com/
+http://www.google.com/groups
+http://listserv.nodak.edu/scripts/wa.exe
+http://www.mathsource.com/cgi-bin/msitem
+http://bodmas.org/
+http://web.archive.org/web/20040919082156/http://www.izzycat.org/math/index.php
+http://blogs.discovermagazine.com/loom/science-tattoo-emporium/
+http://www.snels-design.com/index.php
+http://groups.yahoo.com/group/true_tile/
+http://www.drbsciencebasics.com/
+http://www.usaco.org/index.php
+http://geneanet.org/geneweb/gg.php3
+https://sli.ics.uci.edu/Code/GPRTimeshift
+https://sli.ics.uci.edu/Site/Site
+https://sli.ics.uci.edu/Projects/Projects
+http://sli.ics.uci.edu/Projects/RCTree
+http://sli.ics.uci.edu/Projects/Event
+http://sli.ics.uci.edu/Projects/BP
+http://sli.ics.uci.edu/Projects/Nonparametric
+https://sli.ics.uci.edu/Code/Code
+http://sli.ics.uci.edu/Code/Adaptive
+http://sli.ics.uci.edu/Code/MMPP
+https://sli.ics.uci.edu/Classes/2016S-274b
+http://sli.ics.uci.edu/Classes/2016S-274b-ProjectIdeas
+http://sli.ics.uci.edu/Code/Matlab-Factor
+https://sli.ics.uci.edu/Classes/2016W-178
+http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes
+https://sli.ics.uci.edu/Classes/2015W-178
+https://sli.ics.uci.edu/Classes/2014S-274b
+http://sli.ics.uci.edu/Classes/2014S-274b-ProjectIdeas
+https://sli.ics.uci.edu/Classes/2014W-178
+https://sli.ics.uci.edu/Classes/2013F-273a
+https://sli.ics.uci.edu/Classes/2013-iCamp
+https://sli.ics.uci.edu/Classes/2013S-77B
+http://sli.ics.uci.edu/Classes/2013S-77B-Misc
+https://sli.ics.uci.edu/Classes/2012F-178
+https://sli.ics.uci.edu/Classes/2012F-273a
+https://sli.ics.uci.edu/Classes/2012S-274b
+http://sli.ics.uci.edu/Classes/2012S-274b-ProjectIdeas
+https://sli.ics.uci.edu/Classes/2012W-178
+https://sli.ics.uci.edu/Classes/2011F-171
+https://sli.ics.uci.edu/Classes/2011S-271
+https://sli.ics.uci.edu/Classes/2011S-274a
+https://sli.ics.uci.edu/Classes/2011W-178
+http://sli.ics.uci.edu/Classes/2011W-178-Review
+http://alliance.seas.upenn.edu/~cis520/wiki/index.php
+https://sli.ics.uci.edu/Classes/2010S-295
+https://sli.ics.uci.edu/Classes/2010W-178
+https://sli.ics.uci.edu/Classes/2010W-274a
+https://sli.ics.uci.edu/Classes/2009S
+https://sli.ics.uci.edu/Classes/2009W
+https://sli.ics.uci.edu/Classes-2008F/Main
+http://sli.ics.uci.edu/Classes-2008F/Classes-2008F
+http://sli.ics.uci.edu/Classes-2008F/Discussion
+http://sli.ics.uci.edu/Classes-2008F/Puzzle
+http://sli.ics.uci.edu/Classes-2008F/Finance
+http://sli.ics.uci.edu/Classes-2008F/MarkovianStocks
+https://sli.ics.uci.edu/Classes/2008CSE
+http://sli.ics.uci.edu/Classes/CSEProjectIdeas
+http://sli.ics.uci.edu/Classes/CSEResources
+https://sli.ics.uci.edu/Classes/2008S
+https://sli.ics.uci.edu/Classes/2008W
+https://sli.ics.uci.edu/Projects/GraphicalModels
+https://sli.ics.uci.edu/Projects/Sensor
+https://sli.ics.uci.edu/Projects/DataMining
+https://sli.ics.uci.edu/Pubs/Pubs
+http://sli.ics.uci.edu/Pubs/Abstracts
+http://sli.ics.uci.edu/Pubs/Bibliography
+http://sli.ics.uci.edu/Ihler-Photos/Ihler-Photos
+https://sli.ics.uci.edu/Ihler-Photos/Africa
+https://sli.ics.uci.edu/Ihler-Photos/Japan
+https://sli.ics.uci.edu/Ihler-Photos/Bobby
+http://www.opticsexpress.org/abstract.cfm
+http://www.opticsexpress.org/viewmedia.cfm
+http://odysseas.calit2.uci.edu/wiki/doku.php
+https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml
+https://www.att.com/gen/public-affairs
+http://www.newyorker.com/archive/2001/05/28/010528fa_fact_parker
+http://archives.newyorker.com/
+http://www.writingcenter.uci.edu/
+http://www.groklaw.net/staticpages/index.php
+http://www.computer.org/software/homepage/2002/03COTS/index.htm
+http://www.ocweekly.com/printme.php
+http://www.newyorker.com/fact/content/
+https://www.ics.uci.edu/ugrad/policies/index.php
+http://www.tcs-trddc.com/trddc_website/scripts/people_page.php
+http://mondego.ics.uci.edu/projects/clonedetection/tool/demo/
+http://mondego.ics.uci.edu/projects/clonedetection/tool/latest/
+http://mondego.ics.uci.edu/datasets/
+http://mondego.ics.uci.edu/datasets/wikipedia-events/files/
+https://www.dropbox.com/s/kbn7otr9c0c2a28/res_031716_220811.tar.gz
+https://www.dropbox.com/s/2zykmn65gi5zesw/res_111818_042904.tar.gz
+http://www.mathworks.com/products/matlab/
+https://nmsl.cs.nthu.edu.tw/index.php/people
+https://labs.oracle.com/pls/apex/f
+https://isg.ics.uci.edu/event/prof-jeff-ullman-visit/
+https://isg.ics.uci.edu/events/list/
+https://isg.ics.uci.edu/events/
+http://www.socioinfocyber.org/imsci2008/website/default.asp
+https://support.ics.uci.edu/studentID/index.php
+http://www.uci.edu/cgi-bin/phonebook
+http://support.microsoft.com/default.aspx
+https://www.youtube.com/results
+http://itunes.apple.com/us/app/instant-pubmed/id457317875
+https://cbcl.ics.uci.edu/doku.php/software/arem
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall
+https://chenli.ics.uci.edu/wp-login.php
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter
+https://grape.ics.uci.edu/wiki/public/wiki/cs122a-2016-spring
+http://138.232.66.66/ra/calc.htm
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter-project1-git
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-git
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-git
+http://www.ics.uci.edu/community/news/features/view_feature
+http://www.dvf.com/world-of-dvf/post/
+http://tf.thegeekmovement.com/wp/
+https://drive.google.com/file/d/0ByXU8gAAONgoTEVKS2tFUHI0Qnc/view
+https://drive.google.com/file/d/1kGlbxzlQ4WLS3Bd2UdwobIvnaGl8B-7z/view
+http://www.senate.uci.edu/senateweb/default2.asp
+https://webfiles.uci.edu/xythoswfs/webui
+https://www.facebook.com/pages/UCI-Quarter-Planner/162645660464432
+http://www.ics.uci.edu/informatics/research/research_highlight_view.php
+http://store.vitalsource.com/search
+http://www.cs.aston.ac.uk/phpmodules/displaysyllabusinternet.php
+http://research.microsoft.com/research/pubs/view.aspx
+http://rexa.info/paper
+http://www.weather.gov/glossary/index.php
+https://play.google.com/store/apps/details
+https://scholar.google.com/scholar
+http://archive.ics.uci.edu/ml/machine-learning-databases/00481/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00484/
+http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+http://www.octaneoc.org/load_content.asp
+https://wics.ics.uci.edu/events/2018-11-26/
+https://wics.ics.uci.edu/event/casino-night/
+https://wics.ics.uci.edu/events/2018-11-30/
+https://wics.ics.uci.edu/events/2018-12-03/
+https://wics.ics.uci.edu/event/wics-potluck/
+https://wics.ics.uci.edu/events/2019-02-06/
+https://wics.ics.uci.edu/event/study-session/
+https://wics.ics.uci.edu/wics-fall-quarter-week-3-amazon-workshop/
+https://wics.ics.uci.edu/wics-fall-quarter-week-3-wics-games/
+https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer/
+https://wics.ics.uci.edu/fall-quarter-2017-week-3-wics-games/
+https://wics.ics.uci.edu/fall-quarter-2017-week-0-wics-social/
+https://wics.ics.uci.edu/spring-quarter-2017-week-1-general-meeting/
+https://wics.ics.uci.edu/winter-quarter-2017-week-6-study-session/
+https://wics.ics.uci.edu/winter-quarter-2017-week-1-general-meeting/
+https://wics.ics.uci.edu/i-htm/
+https://wics.ics.uci.edu/beginning-of-the-quarter-general-meeting/
+https://wics.ics.uci.edu/fall-quarter-update/
+https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund/
+https://wics.ics.uci.edu/google-career-panel/
+https://wics.ics.uci.edu/masimo-presents-the-hidden-job-market/
+https://wics.ics.uci.edu/wics-mentorship-program/
+https://wics.ics.uci.edu/wics-first-general-meeting/
+https://wics.ics.uci.edu/2nd-post/
+https://wics.ics.uci.edu/hello-world/
+https://wics.ics.uci.edu/ics-banquet/
+https://researcher.ibm.com/researcher/view.php
+http://lpr.oxfordjournals.org/cgi/reprint/mgn004
+http://mediacenter.motorola.com/content/detail.aspx
+http://tennislink.usta.com/Tournaments/TournamentHome/Tournament.aspx
+http://search2.intel.com/corporate/default.aspx
+http://www.nedstatbasic.net/stats
+http://cradl.ics.uci.edu/
+http://www.facebook.com/home.php
+https://swiki.ics.uci.edu/doku.php/announce:spring-2018
+https://swiki.ics.uci.edu/doku.php/projects:maint-spring-2018
+https://swiki.ics.uci.edu/doku.php/announce:winter-2018
+https://swiki.ics.uci.edu/doku.php/projects:maint-winter-2018
+https://swiki.ics.uci.edu/doku.php/announce:sprint-2018
+https://swiki.ics.uci.edu/doku.php/announce:spring-2017
+https://swiki.ics.uci.edu/doku.php/projects:maint-fall
+https://swiki.ics.uci.edu/doku.php/hardware:storage:cybertron
+https://ganglia.ics.uci.edu/
+http://ganglia.sourceforge.net/downloads.php
+http://www.cs.utexas.edu/%7EAustinVilla/
+http://www.cup.org/titles/catalogue.asp
+http://scholar.google.de/citations
+http://eee.uci.edu/toolbox/noteboard/
+http://www.ics.uci.edu/~eppstein/junkyard/box-in-box.html
+http://www.emis.de/cgi-bin/MATH
+http://patent.womplex.ibm.com/patlist
+http://www.zpr.Uni-Koeln.DE/~paper/author-by-initial.php3
+https://racso.lsi.upc.edu/juezwsgi/exercise-list
+https://www.familytreedna.com/surname_join.aspx
+https://familysearch.org/search/film/004405839
+https://familysearch.org/search/film/004405840
+https://familysearch.org/search/film/004406771
+https://familysearch.org/search/film/005510072
+https://familysearch.org/search/film/004407826
+https://familysearch.org/search/film/004406940
+https://familysearch.org/search/film/004407827
+https://familysearch.org/search/film/004406975
+https://familysearch.org/search/film/005503686
+http://sli.ics.uci.edu/PmWiki/PasswordsAdmin
+http://sli.ics.uci.edu/pmwiki/pmwiki.php
+http://sli.ics.uci.edu/Site/AttrForm
+https://sli.ics.uci.edu/Site/SideBar
+https://sli.ics.uci.edu/Site/EditForm
+https://sli.ics.uci.edu/Site/PageActions
+https://sli.ics.uci.edu/Site/PageNotFound
+https://sli.ics.uci.edu/Site/PageListTemplates
+https://sli.ics.uci.edu/Site/LocalTemplates
+https://sli.ics.uci.edu/Site/FullName
+https://sli.ics.uci.edu/Site/Preferences
+https://sli.ics.uci.edu/Site/AuthForm
+https://sli.ics.uci.edu/SiteAdmin/AuthUser
+https://sli.ics.uci.edu/Site/HtPasswd
+https://sli.ics.uci.edu/Site/EditQuickReference
+https://sli.ics.uci.edu/Site/UploadQuickReference
+https://sli.ics.uci.edu/Site/AllRecentChanges
+https://sli.ics.uci.edu/Classes/2012F-178-Comments
+https://sli.ics.uci.edu/Classes/2012F-273a-Comments
+https://sli.ics.uci.edu/Classes/2012W-178-Comments
+https://sli.ics.uci.edu/Classes/2011F-171-Discussion
+https://sli.ics.uci.edu/Classes/2011S-271-Discussion
+https://sli.ics.uci.edu/Classes/2011S-274a-Discussion
+https://sli.ics.uci.edu/Classes/2011W-178-Comments
+https://sli.ics.uci.edu/Classes/2010W-178-Comments
+https://sli.ics.uci.edu/Classes/2009S-Comments
+https://sli.ics.uci.edu/Classes/2008F-Comments
+https://sli.ics.uci.edu/Classes/2008S-Comments
+https://sli.ics.uci.edu/Classes/2010S-295-Comments
+https://sli.ics.uci.edu/Classes/2010W-274a-Comments
+https://sli.ics.uci.edu/Classes/2009W-Comments
+https://sli.ics.uci.edu/Profiles/DownloadLaguMp3TerbaruGratis
+https://sli.ics.uci.edu/Profiles/Guest
+https://sli.ics.uci.edu/Profiles/Test
+https://sli.ics.uci.edu/Profiles/Raman
+https://sli.ics.uci.edu/Profiles/Ahollowa
+https://sli.ics.uci.edu/Profiles/Yutianc
+https://sli.ics.uci.edu/Profiles/Ajfrank
+https://sli.ics.uci.edu/Profiles/Shekhars
+https://sli.ics.uci.edu/Profiles/Dorendor
+https://sli.ics.uci.edu/Profiles/Iporteou
+https://sli.ics.uci.edu/Shekars-Private/AddSideBar
+https://sli.ics.uci.edu/Shekars-Private/Shekars-Private
+https://sli.ics.uci.edu/Profiles/Johutchi
+https://sli.ics.uci.edu/Ihler-Photos/AfricaBook
+https://sli.ics.uci.edu/Classes/CS274A-Comments
+https://sli.ics.uci.edu/Classes/CS274A
+https://sli.ics.uci.edu/Classes/CS295
+https://sli.ics.uci.edu/Classes/2008WCS295
+https://sli.ics.uci.edu/Ihler-Private/SideBar
+https://sli.ics.uci.edu/Ihler/SideBar
+https://sli.ics.uci.edu/Site/ListAllPages
+https://sli.ics.uci.edu/AIStats/AIStats
+https://sli.ics.uci.edu/Category/Category
+https://sli.ics.uci.edu/Classes-2008/Classes-2008
+https://sli.ics.uci.edu/Classes-CS18-Notes/Classes-CS18-Notes
+https://sli.ics.uci.edu/Grants/Grants
+https://sli.ics.uci.edu/Group-Meetings/Group-Meetings
+https://sli.ics.uci.edu/Ihler/Ihler
+https://sli.ics.uci.edu/Misc/Misc
+https://sli.ics.uci.edu/Notes/Notes
+https://sli.ics.uci.edu/Site/UserCreation
+https://sli.ics.uci.edu/Projects/RCTree
+https://sli.ics.uci.edu/Projects/BP
+https://sli.ics.uci.edu/Projects/Nonparametric
+https://sli.ics.uci.edu/Code/Adaptive
+https://sli.ics.uci.edu/Code/MMPP
+https://sli.ics.uci.edu/Classes/2016S-274b-ProjectIdeas
+https://sli.ics.uci.edu/Code/Matlab-Factor
+https://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes
+http://sli.ics.uci.edu/Classes-CS178-Notes/Matlab
+http://sli.ics.uci.edu/Classes-CS178-Notes/Matlab-Classes
+http://sli.ics.uci.edu/Classes-CS178-Notes/Regression
+http://sli.ics.uci.edu/Classes-CS178-Notes/Classification
+http://sli.ics.uci.edu/Classes-CS178-Notes/KNearestNeighbors
+http://sli.ics.uci.edu/Classes-CS178-Notes/Probability
+http://sli.ics.uci.edu/Classes-CS178-Notes/BayesClassify
+http://sli.ics.uci.edu/Classes-CS178-Notes/LinearClassify
+http://sli.ics.uci.edu/Classes-CS178-Notes/LogisticReg
+http://sli.ics.uci.edu/Classes-CS178-Notes/DecisionTrees
+http://sli.ics.uci.edu/Classes-CS178-Notes/Bagging
+http://sli.ics.uci.edu/Classes-CS178-Notes/Boosting
+http://sli.ics.uci.edu/Classes-CS178-Notes/KMeans
+http://sli.ics.uci.edu/Classes-CS178-Notes/HierarchAC
+http://sli.ics.uci.edu/Classes-CS178-Notes/GmmEM
+http://sli.ics.uci.edu/Classes-CS178-Notes/PCA
+https://sli.ics.uci.edu/Classes/2014S-274b-ProjectIdeas
+https://sli.ics.uci.edu/Classes/2013S-77B-Misc
+https://sli.ics.uci.edu/Classes/2012S-274b-ProjectIdeas
+https://sli.ics.uci.edu/Classes/2011W-178-Review
+https://sli.ics.uci.edu/Classes/2008F
+https://sli.ics.uci.edu/Classes-2008F/Discussion
+https://sli.ics.uci.edu/Classes-2008F/Puzzle
+http://sli.ics.uci.edu/Classes-2008F/Announcements
+http://sli.ics.uci.edu/Classes-2008F/Outline
+http://sli.ics.uci.edu/Classes-2008F/JigsawPuzzleSolvers
+http://sli.ics.uci.edu/Classes-2008F/RelatedTechniques
+http://sli.ics.uci.edu/Classes-2008F/UsefulBackground
+http://sli.ics.uci.edu/Classes-2008F/CTMSegmentation
+https://sli.ics.uci.edu/Classes-2008F/Finance
+http://sli.ics.uci.edu/Classes-2008F/MLN
+http://sli.ics.uci.edu/Classes-2008F/Flocking
+http://sli.ics.uci.edu/Classes-2008F/Tools
+https://sli.ics.uci.edu/Classes/CSEProjectIdeas
+https://sli.ics.uci.edu/Classes/CSEResources
+https://sli.ics.uci.edu/Pubs/Abstracts
+https://sli.ics.uci.edu/Pubs/Bibliography
+http://ads.nytimes.com/adx/bin/adx_click.html
+http://www.nytbroadway.com/
+http://mondego.ics.uci.edu/projects/clonedetection/tool/
+http://mondego.ics.uci.edu/projects/clonedetection/tool/latest/features/
+http://mondego.ics.uci.edu/projects/clonedetection/tool/latest/plugins/
+http://maps.yahoo.com/py/maps.py
+http://ibs.colorado.edu/directory/profiles/
+http://bioeng.binghamton.edu/GLF.html
+http://www.s3.uni-duisburg-essen.de/
+http://www.cs.auckland.ac.nz/people/profile.php
+http://www.cdm.depaul.edu/aboutcdm/Pages/facultyinfo.aspx
+http://c2.com/cgi/wiki
+http://www.ul.ie/%7Einformat/personnelsingle.php
+http://west.cmu.edu/who_we_are/faculty_staff/
+http://www.se.eecs.uni-kassel.de/se/index.php
+http://yro.slashdot.org/article.pl
+http://www.microsoft.com/downloads/release.asp
+https://cbcl.ics.uci.edu/doku.php/software/sgd
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2
+http://localhost:8080/project2-session-example/session
+http://localhost:8080/project2-session-example/items
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project5
+http://PUBLIC_IP:8080/Session/servlet/ShowSession
+http://instance1_IP/Session/servlet/ShowSession
+https://console.cloud.google.com/getting-started
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project1-git
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project2
+http://localhost:8080/Session/servlet/ShowSession
+http://localhost:8080/Session/servlet/ShowItems
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter-project5
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring-project5
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project1
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project2
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project3
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project4
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project5
+http://instance1_IP/Session/write/servlet/ShowSession
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-tasks1
+https://itunes.apple.com/us/app/xcode/id497799835
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-mac-setup-guide
+https://www.ics.uci.edu/community/news/features/view_feature
+https://wearablegames.ics.uci.edu/
+http://groups.google.com/support/bin/topic.py
+http://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/
+http://archive.ics.uci.edu/ml/machine-learning-databases/audiology/
+http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/
+http://archive.ics.uci.edu/ml/machine-learning-databases/balance-scale/
+http://archive.ics.uci.edu/ml/machine-learning-databases/chorales/
+http://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/
+http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/
+http://archive.ics.uci.edu/ml/machine-learning-databases/cpu-performance/
+http://archive.ics.uci.edu/ml/machine-learning-databases/cylinder-bands/
+http://archive.ics.uci.edu/ml/machine-learning-databases/dgp-2/
+http://archive.ics.uci.edu/ml/machine-learning-databases/function-finding/
+http://archive.ics.uci.edu/ml/machine-learning-databases/glass/
+http://archive.ics.uci.edu/ml/machine-learning-databases/hayes-roth/
+http://archive.ics.uci.edu/ml/machine-learning-databases/icu/
+http://archive.ics.uci.edu/ml/machine-learning-databases/isolet/
+http://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/
+http://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/
+http://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/
+http://archive.ics.uci.edu/ml/machine-learning-databases/lung-cancer/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/
+http://archive.ics.uci.edu/ml/machine-learning-databases/meta-data/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mobile-robots/
+http://archive.ics.uci.edu/ml/machine-learning-databases/monks-problems/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mfeat/
+http://archive.ics.uci.edu/ml/machine-learning-databases/musk/
+http://archive.ics.uci.edu/ml/machine-learning-databases/page-blocks/
+http://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/
+http://archive.ics.uci.edu/ml/machine-learning-databases/primary-tumor/
+http://archive.ics.uci.edu/ml/machine-learning-databases/qsar/
+http://archive.ics.uci.edu/ml/machine-learning-databases/quadrapeds/
+http://archive.ics.uci.edu/ml/machine-learning-databases/solar-flare/
+http://archive.ics.uci.edu/ml/machine-learning-databases/soybean/
+http://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/
+http://archive.ics.uci.edu/ml/machine-learning-databases/spect/
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/
+http://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/
+http://archive.ics.uci.edu/ml/machine-learning-databases/tae/
+http://archive.ics.uci.edu/ml/machine-learning-databases/tic-tac-toe/
+http://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/
+http://archive.ics.uci.edu/ml/machine-learning-databases/water-treatment/
+http://archive.ics.uci.edu/ml/machine-learning-databases/waveform/
+http://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/coil-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/CorelFeatures-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ecoli-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/el_nino-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/internet_usage-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ipums-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/JapaneseVowels-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/kddcup98-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/tb-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/UNIX_user_data-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/australian/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/heart/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/vehicle/
+http://archive.ics.uci.edu/ml/machine-learning-databases/event-detection/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/
+http://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/
+http://archive.ics.uci.edu/ml/machine-learning-databases/hill-valley/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ozone/
+http://archive.ics.uci.edu/ml/machine-learning-databases/abscisic-acid/
+http://archive.ics.uci.edu/ml/machine-learning-databases/blood-transfusion/
+http://archive.ics.uci.edu/ml/machine-learning-databases/semeion/
+http://archive.ics.uci.edu/ml/machine-learning-databases/libras/
+http://archive.ics.uci.edu/ml/machine-learning-databases/concrete/slump/
+http://archive.ics.uci.edu/ml/machine-learning-databases/communities/
+http://archive.ics.uci.edu/ml/machine-learning-databases/url/
+http://archive.ics.uci.edu/ml/machine-learning-databases/opinion/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00194/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00195/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00196/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00197/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00203/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00204/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00210/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00211/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00212/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00215/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00216/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00217/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00219/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00223/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00224/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00225/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00228/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00229/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00231/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00232/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00233/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00238/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00239/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00241/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00242/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00243/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00245/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00248/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00249/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00251/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00252/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00253/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00254/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00255/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00256/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00257/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00260/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00262/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00264/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00275/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00277/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00278/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00282/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00286/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00290/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00291/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00292/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00296/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00298/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00299/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00300/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00303/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00304/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00305/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00311/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00313/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00314/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00315/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00318/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00319/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00320/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00322/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00323/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00326/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00327/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00329/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00330/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00331/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00332/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00333/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00334/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00340/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00344/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00347/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00348/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00349/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00350/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00352/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00353/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00354/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00355/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00357/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00359/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00360/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00362/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00363/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00365/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00368/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00369/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00371/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00372/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00373/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00374/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00378/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00379/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00380/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00381/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00383/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00384/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00386/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00389/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00390/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00391/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00394/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00396/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00398/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00399/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00400/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00405/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00409/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00410/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00411/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00412/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00413/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00414/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00415/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00422/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00423/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00428/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00429/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00431/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00433/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00434/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00437/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00440/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00441/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00442/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00447/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00448/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00449/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00450/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00452/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00454/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00462/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00467/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00469/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00475/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00476/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00479/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00481/
+http://archive.ics.uci.edu/ml/machine-learning-databases/
+http://www.connect.uci.edu/s/1735/interior-1col.aspx
+https://secure.connect.uci.edu/s/1735/interior.aspx
+https://wics.ics.uci.edu/events/2018-11-05/
+https://wics.ics.uci.edu/events/2018-11-15/
+https://wics.ics.uci.edu/event/msc-software-info-session-dbh-3011/
+https://wics.ics.uci.edu/events/2018-11-19/
+https://wics.ics.uci.edu/event/mentee-and-me-academic-planning-dbh-6011/
+https://wics.ics.uci.edu/fall-quarter-week-4-study-session/
+https://wics.ics.uci.edu/wics-attends-gracehopper-conference-2016/
+https://wics.ics.uci.edu/fall-quarter-2016-week-3-pwc-info-session/
+https://wics.ics.uci.edu/fall-quarter-2016-week-3-wics-games/
+https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/
+https://wics.ics.uci.edu/fall-quarter-2016-first-general-meeting/
+https://wics.ics.uci.edu/wics-resume-workshop/
+https://wics.ics.uci.edu/board-game-night/
+https://wics.ics.uci.edu/recurse-center/
+https://wics.ics.uci.edu/consulting-versus-industry-pariveda-solutions/
+https://wics.ics.uci.edu/mock-interview/
+https://wics.ics.uci.edu/spring-general-meeting/
+https://wics.ics.uci.edu/amazon-info-session/
+https://wics.ics.uci.edu/verizon-info-session/
+https://wics.ics.uci.edu/girls-who-code/
+https://wics.ics.uci.edu/study-session/
+https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund-2/
+https://wics.ics.uci.edu/adobe-info-session/
+https://wics.ics.uci.edu/ics-career-panel/
+https://wics.ics.uci.edu/week-5-facebook-women-panel/
+https://wics.ics.uci.edu/week-3-wicsvgdc-workshop/
+https://wics.ics.uci.edu/week-2-ios-beginner-workshop/
+https://wics.ics.uci.edu/grace-hopper-celebration-2014/
+https://wics.ics.uci.edu/gen-meeting-and-mentorship-14/
+https://wics.ics.uci.edu/first-annual-wics-games/
+https://wics.ics.uci.edu/hackuci-spring-2014/
+https://wics.ics.uci.edu/wics-final-python-project-meeting/
+https://wics.ics.uci.edu/studying-with-wics-2/
+https://wics.ics.uci.edu/spring-potluck-with-ics-clubs/
+https://wics.ics.uci.edu/wics-launches-a-flappy-bird-python-project/
+https://wics.ics.uci.edu/witi-comes-to-uci/
+https://wics.ics.uci.edu/wics-attends-cwic-socal/
+https://wics.ics.uci.edu/wics-is-invited-to-western-digital/
+https://wics.ics.uci.edu/wics-first-general-spring-quarter-meeting/
+https://wics.ics.uci.edu/android-app-finale/
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop/
+https://wics.ics.uci.edu/annual-mentorship-program-2013/
+https://wics.ics.uci.edu/wics-week-0-meet-and-greet/
+https://wics.ics.uci.edu/aspire-it-camp-techie-girls/
+https://wics.ics.uci.edu/wics-summer-session-workshop/
+https://wics.ics.uci.edu/letter-of-recommendation-workshop/
+https://wics.ics.uci.edu/wics-mock-interviews/
+https://wics.ics.uci.edu/wics-littlebits-workshops/
+https://wics.ics.uci.edu/studying-with-wics/
+https://wics.ics.uci.edu/brownie-troops-computer-expert-badge/
+https://wics.ics.uci.edu/food-and-fun-with-wics/
+https://wics.ics.uci.edu/first-android-app-development-meeting/
+https://wics.ics.uci.edu/movie-night-and-boardgames-with-wics/
+https://wics.ics.uci.edu/wics-co-hosts-google-panel/
+https://wics.ics.uci.edu/first-wics-meeting-of-winter-14/
+https://wics.ics.uci.edu/web-development-projects-awards/
+https://wics.ics.uci.edu/week-10-hour-of-code/
+https://wics.ics.uci.edu/cia-info-session-with-wics/
+https://wics.ics.uci.edu/week-8-thanksgiving-potluck/
+https://wics.ics.uci.edu/week-6-socal-gas-company/
+https://wics.ics.uci.edu/week-3-resume-workshop/
+https://wics.ics.uci.edu/week-2-broadcom-info-session/
+https://wics.ics.uci.edu/grace-hopper-celebration-2013/
+https://wics.ics.uci.edu/first-project-meeting-by-wics/
+https://cml.ics.uci.edu/category/news/page/5/
+http://search.ieice.org/bin/summary.php
+https://itunes.apple.com/us/book/understanding-your-users-enhanced/id1000818277
+http://antpac.lib.uci.edu/search/r
+https://itunes.apple.com/us/book/usability-testing-essentials/id530474893
+https://play.google.com/store/books/details
+http://antpac.lib.uci.edu/search/p
+http://www.percom.org/
+http://www.addall.com/New/Partner.cgi
+http://book.uci.edu/ePOS
+http://www.crito.uci.edu/critohourdetail.asp
+http://www.itr-rescue.org/pubs/query.php
+http://www.sciencemag.org/cgi/content/full/306/5704/2178
+https://cradl.ics.uci.edu/wp-login.php
+http://www.klas-tv.com/Global/story.asp
+http://www.aclu.org/Files/OpenFile.cfm
+http://www.aclu.org/SafeandFree/SafeandFree.cfm
+http://www.inderscience.com/dev/search/index.php
+http://www.siggraph.org/s2005/main.php
+http://www.calit2.net/articles/article.php
+http://www.zpr.Uni-Koeln.DE/~paper/paper.php3
+http://www.sugarquill.net/index.php
+https://www.familysearch.org/ark:/61903/3:1:939V-RMPR-K
+http://awt.ancestry.com/cgi-bin/igm.cgi
+http://www.ellisisland.org/cgi-bin/tif2gif.exe
+https://sli.ics.uci.edu/PmWiki/PasswordsAdmin
+http://sli.ics.uci.edu/PmWiki/PmWiki
+http://sli.ics.uci.edu/Main/WikiSandbox
+http://sli.ics.uci.edu/PmWiki/Notify
+http://sli.ics.uci.edu/SiteAdmin/NotifyList
+http://sli.ics.uci.edu/PmWiki/DocumentationIndex
+http://sli.ics.uci.edu/PmWiki/RefCount
+http://sli.ics.uci.edu/PmWiki/Passwords
+http://sli.ics.uci.edu/PmWiki/SpecialPages
+http://sli.ics.uci.edu/PmWiki/GroupAttributes
+http://sli.ics.uci.edu/PmWiki/WikiGroup
+http://sli.ics.uci.edu/PmWiki/RecentChanges
+http://sli.ics.uci.edu/PmWiki/Security
+http://isc.sans.org/diary.php
+http://sli.ics.uci.edu/PmWiki/WikiAdministrator
+http://sli.ics.uci.edu/Category/Spam
+http://sli.ics.uci.edu/PmWiki/AvailableActions
+http://sli.ics.uci.edu/Cookbook/CSVAction
+http://sli.ics.uci.edu/PmWiki/SecurityVariables
+http://sli.ics.uci.edu/PmWiki/AuthUser
+http://sli.ics.uci.edu/PmWiki/ConditionalMarkup
+http://sli.ics.uci.edu/PmWiki/GroupCustomizations
+http://sli.ics.uci.edu/PmWiki/GroupName
+https://sli.ics.uci.edu/Site/AttrForm
+http://sli.ics.uci.edu/PmWiki/BasicEditing
+http://sli.ics.uci.edu/PmWiki/NonexistentPages
+http://sli.ics.uci.edu/PmWiki/TextFormattingRules
+http://sli.ics.uci.edu/PmWiki/Tables
+http://sli.ics.uci.edu/PmWiki/TableDirectives
+http://sli.ics.uci.edu/PmWiki/PageLists
+http://sli.ics.uci.edu/PmWiki/PageListTemplates
+http://sli.ics.uci.edu/Site/LocalTemplates
+http://sli.ics.uci.edu/PmWiki/PageVariables
+http://sli.ics.uci.edu/PmWiki/PageTextVariables
+http://sli.ics.uci.edu/PmWiki/FullName
+http://sli.ics.uci.edu/PmWiki/Name
+https://sli.ics.uci.edu/Site/GroupAttributes
+http://sli.ics.uci.edu/PmWiki/AccessKeys
+https://sli.ics.uci.edu/SiteAdmin/SiteAdmin
+http://sli.ics.uci.edu/PmWiki/Uploads
+http://example.com/dox/mydoc
+http://sli.ics.uci.edu/Profiles/Ihler
+http://sli.ics.uci.edu/Classes/2012F-178-Comments
+http://sli.ics.uci.edu/Classes/2012F-273a-Comments
+http://sli.ics.uci.edu/Classes/2012W-178-Comments
+http://sli.ics.uci.edu/Classes/2011F-171-Discussion
+http://sli.ics.uci.edu/Classes/2011S-271-Discussion
+http://sli.ics.uci.edu/Classes/2011S-274a-Discussion
+http://sli.ics.uci.edu/Classes/2011W-178-Comments
+http://sli.ics.uci.edu/Classes/2010W-178-Comments
+http://sli.ics.uci.edu/Classes/2009S-Comments
+http://sli.ics.uci.edu/Classes/2008F-Comments
+http://sli.ics.uci.edu/Classes/2008S-Comments
+http://sli.ics.uci.edu/Classes/2010S-295-Comments
+http://sli.ics.uci.edu/Classes/2010W-274a-Comments
+http://sli.ics.uci.edu/Classes/2009W-Comments
+http://sli.ics.uci.edu/AIStats/Postings
+http://sli.ics.uci.edu/Profiles/DownloadLaguMp3TerbaruGratis
+http://sli.ics.uci.edu/Classes/2015F-179-ProjectIdeas
+http://sli.ics.uci.edu/Classes-CS18-Notes/Matlab-Classes
+http://sli.ics.uci.edu/Group-Meetings/2013W
+http://sli.ics.uci.edu/Group/Ihler
+http://sli.ics.uci.edu/Code/Learners
+http://sli.ics.uci.edu/Library/Posters
+http://sli.ics.uci.edu/Profiles/Priya
+http://sli.ics.uci.edu/Library/Library
+http://sli.ics.uci.edu/Classes-CS271-Notes/SearchHeuristic
+http://sli.ics.uci.edu/Classes-CS271-Notes/Classes-CS271-Notes
+http://sli.ics.uci.edu/Classes-CS271-Notes/SearchBlind
+http://sli.ics.uci.edu/Classes-CS271-Notes/SearchLocal
+http://sli.ics.uci.edu/Classes-CS271-Notes/GameTrees
+http://sli.ics.uci.edu/Classes-CS271-Notes/MCTS
+http://sli.ics.uci.edu/Code/MxObjects
+http://sli.ics.uci.edu/Code/MxFactor
+http://sli.ics.uci.edu/Code/MxGraphModel
+http://sli.ics.uci.edu/Classes/NSC
+http://sli.ics.uci.edu/Classes/CS178-Regression
+http://sli.ics.uci.edu/Projects/Vision
+http://sli.ics.uci.edu/Pubs/PubsDB
+http://sli.ics.uci.edu/AIML/PreNIPS2010
+http://sli.ics.uci.edu/AIML/AIML
+http://sli.ics.uci.edu/Notes/NIPS2009
+http://sli.ics.uci.edu/Profiles/Guest
+http://sli.ics.uci.edu/Calendar/Calendar
+http://sli.ics.uci.edu/Competitions/Competitions
+http://mlsp2008.conwiz.dk/index.php
+http://sli.ics.uci.edu/Ihler-Photos/Japan-Deva
+http://sli.ics.uci.edu/Profiles/Test
+http://sli.ics.uci.edu/Classes/CSE181
+http://sli.ics.uci.edu/Grants-2008SciSIP/Main
+http://sli.ics.uci.edu/Profiles/Raman
+http://sli.ics.uci.edu/Grants/2008SciSIP
+http://sli.ics.uci.edu/Grants-2008SciSIP/Summary
+http://sli.ics.uci.edu/Profiles/Ahollowa
+http://sli.ics.uci.edu/Profiles/Yutianc
+http://sli.ics.uci.edu/Profiles/Ajfrank
+http://sli.ics.uci.edu/Profiles/Shekhars
+http://sli.ics.uci.edu/Profiles/Dorendor
+http://sli.ics.uci.edu/Grants-2008NSF/HomePage
+http://sli.ics.uci.edu/Grants-2008NSF/Main
+http://sli.ics.uci.edu/Profiles/Iporteou
+http://sli.ics.uci.edu/Shekars-Private/AddSideBar
+http://sli.ics.uci.edu/Shekars-Private/Shekars-Private
+http://sli.ics.uci.edu/Classes-2008/Main
+http://sli.ics.uci.edu/Johutchi-Private/AddSideBar
+http://sli.ics.uci.edu/Johutchi-Private/Johutchi-Private
+http://sli.ics.uci.edu/Profiles/Johutchi
+http://sli.ics.uci.edu/Group/Johutchi
+http://sli.ics.uci.edu/Classes-2008F/Testing
+http://sli.ics.uci.edu/Classes/2008F-Discussion
+http://sli.ics.uci.edu/Ihler-Private/AddSideBar
+http://sli.ics.uci.edu/Ihler-Private/ScratchPad
+http://sli.ics.uci.edu/Ihler-Private/Charges
+http://sli.ics.uci.edu/Ihler-Photos/AfricaBook
+http://sli.ics.uci.edu/Ihler-Private/Personal
+http://sli.ics.uci.edu/Ihler-Private/ToDo
+http://sli.ics.uci.edu/Ihler-Private/ToDo-gtddata
+http://sli.ics.uci.edu/Profiles/Profiles
+http://sli.ics.uci.edu/Ihler-Private/Research
+http://sli.ics.uci.edu/Classes/CS274A-Comments
+http://sli.ics.uci.edu/Classes/CS274A
+http://sli.ics.uci.edu/Classes/CS295
+http://sli.ics.uci.edu/Classes/2008WCS295
+http://sli.ics.uci.edu/Ihler-Private/WebResources
+http://sli.ics.uci.edu/Ihler-Private/Papers
+http://sli.ics.uci.edu/Ihler-Private/People
+http://sli.ics.uci.edu/Ihler-Private/Ihler-Private
+http://sli.ics.uci.edu/Group/SideBar
+http://sli.ics.uci.edu/Ihler-Private/SideBar
+http://sli.ics.uci.edu/Misc/Willsky
+http://sli.ics.uci.edu/Ihler/SideBar
+http://sli.ics.uci.edu/Classes/CS274A-Notes
+http://sli.ics.uci.edu/Ihler-Photos/House
+http://sli.ics.uci.edu/AIML/RecentChanges
+http://sli.ics.uci.edu/AIStats/AIStats
+http://sli.ics.uci.edu/AIStats/RecentChanges
+http://sli.ics.uci.edu/Calendar/RecentChanges
+http://sli.ics.uci.edu/Category/Category
+http://sli.ics.uci.edu/Category/GroupFooter
+http://sli.ics.uci.edu/Classes-2008/Classes-2008
+http://sli.ics.uci.edu/Classes-2008/RecentChanges
+http://sli.ics.uci.edu/Classes-2008F/GroupAttributes
+http://sli.ics.uci.edu/Classes-2008F/RecentChanges
+http://sli.ics.uci.edu/Classes-CS178-Notes/GroupAttributes
+http://sli.ics.uci.edu/Classes-CS178-Notes/RecentChanges
+http://sli.ics.uci.edu/Classes-CS18-Notes/Classes-CS18-Notes
+http://sli.ics.uci.edu/Classes-CS18-Notes/RecentChanges
+http://sli.ics.uci.edu/Classes/RecentChanges
+http://sli.ics.uci.edu/Code/RecentChanges
+http://sli.ics.uci.edu/Competitions/RecentChanges
+http://sli.ics.uci.edu/Grants/Grants
+http://sli.ics.uci.edu/Grants/RecentChanges
+http://sli.ics.uci.edu/Group-Meetings/Group-Meetings
+http://sli.ics.uci.edu/Group-Meetings/RecentChanges
+http://sli.ics.uci.edu/Group/RecentChanges
+http://sli.ics.uci.edu/Ihler-Photos/RecentChanges
+http://sli.ics.uci.edu/Ihler/Ihler
+http://sli.ics.uci.edu/Ihler/RecentChanges
+http://sli.ics.uci.edu/Library/RecentChanges
+http://sli.ics.uci.edu/Main/RecentChanges
+http://sli.ics.uci.edu/Misc/Misc
+http://sli.ics.uci.edu/Misc/RecentChanges
+http://sli.ics.uci.edu/Notes/Notes
+http://sli.ics.uci.edu/Notes/RecentChanges
+http://sli.ics.uci.edu/PmWiki/Audiences
+http://sli.ics.uci.edu/PmWiki/BackupAndRestore
+http://filezilla-project.org/download.php
+http://sli.ics.uci.edu/PmWiki/BasicVariables
+http://sli.ics.uci.edu/SiteAdmin/ApprovedUrls
+http://sli.ics.uci.edu/PmWiki/Blocklist
+http://sli.ics.uci.edu/SiteAdmin/Blocklist
+http://moinmo.in/BadContent
+http://sli.ics.uci.edu/PmWiki/BlockMarkup
+http://sli.ics.uci.edu/PmWiki/Categories
+http://sli.ics.uci.edu/PmWiki/ChangeLog
+http://sli.ics.uci.edu/PmWiki/LinkSchemes
+http://sli.ics.uci.edu/PmWiki/ChangesFromPmWiki1
+http://sli.ics.uci.edu/PmWiki/ContactUs
+http://sli.ics.uci.edu/PmWiki/Contributors
+http://sli.ics.uci.edu/PmWiki/CreatingNewPages
+http://sli.ics.uci.edu/PmWiki/MyNewPage
+http://sli.ics.uci.edu/PmWiki/InterMap
+http://sli.ics.uci.edu/PmWiki/CustomInterMap
+http://www.usemod.com/cgi-bin/wiki.pl
+http://www.usemod.com/cgi-bin/mb.pl
+http://sli.ics.uci.edu/Site/InterMap
+http://www.c2.com/cgi/wiki
+http://sli.ics.uci.edu/PmWiki/CustomWikiStyles
+http://sli.ics.uci.edu/PmWiki/DebugVariables
+http://sli.ics.uci.edu/PmWiki/DeletingPages
+http://sli.ics.uci.edu/PmWiki/DesignNotes
+http://sli.ics.uci.edu/PmWiki/Drafts
+http://sli.ics.uci.edu/PmWiki/EditVariables
+http://sli.ics.uci.edu/PmWiki/FilePermissions
+http://sli.ics.uci.edu/PmWiki/FmtPageName
+http://sli.ics.uci.edu/PmWiki/Forms
+http://sli.ics.uci.edu/PmWiki/Functions
+http://sli.ics.uci.edu/PmWiki/Glossary
+http://sli.ics.uci.edu/PmWiki/GroupFooter
+http://sli.ics.uci.edu/PmWiki/GroupHeader
+http://sli.ics.uci.edu/PmWiki/GroupHeaders
+http://sli.ics.uci.edu/PmWiki/I18nVariables
+http://sli.ics.uci.edu/PmWiki/Images
+http://sli.ics.uci.edu/PmWiki/IncludeOtherPages
+http://sli.ics.uci.edu/PmWiki/InitialSetupTasks
+http://sli.ics.uci.edu/PmWiki/Installation
+http://sli.ics.uci.edu/PmWiki/Internationalizations
+http://sli.ics.uci.edu/PmWikiFr/XLPage
+http://sli.ics.uci.edu/Localization/Localization
+http://sli.ics.uci.edu/PmWiki/Introduction
+http://sli.ics.uci.edu/PmWiki/LayoutVariables
+http://sli.ics.uci.edu/PmWiki/Links
+http://sli.ics.uci.edu/Profiles/Author
+http://sli.ics.uci.edu/PmWiki/LinkVariables
+http://sli.ics.uci.edu/PmWiki/LocalCustomizations
+http://sli.ics.uci.edu/PmWiki/MailingLists
+http://search.gmane.org/search.php
+http://news.gmane.org/search.php
+http://sli.ics.uci.edu/PmWiki/MailPosts
+http://sli.ics.uci.edu/PmWiki/MarkupExpressions
+http://sli.ics.uci.edu/PmWiki/MarkupMasterIndex
+http://sli.ics.uci.edu/PmWiki/OtherVariables
+http://sli.ics.uci.edu/PmWiki/PageDirectives
+http://sli.ics.uci.edu/PmWiki/PageFileFormat
+http://sli.ics.uci.edu/PmWiki/PageHistory
+http://sli.ics.uci.edu/PmWiki/PagelistVariables
+http://sli.ics.uci.edu/PmWiki/PathVariables
+http://sli.ics.uci.edu/PmWiki/PatrickMichaud
+http://sli.ics.uci.edu/PmWiki/PerGroupCustomizations
+http://sli.ics.uci.edu/PmWiki/PmWikiPhilosophy
+http://sli.ics.uci.edu/PmWiki/ReleaseNotes
+http://sli.ics.uci.edu/PmWiki/SiteAnalyzer
+http://sli.ics.uci.edu/PmWiki/Requirements
+http://sli.ics.uci.edu/PmWiki/Search
+http://sli.ics.uci.edu/Cookbook/Cookbook
+http://sli.ics.uci.edu/PmWiki/SimultaneousEdits
+https://sli.ics.uci.edu/PmWiki/SitePageActions
+https://sli.ics.uci.edu/Cookbook/Cookbook
+https://sli.ics.uci.edu/PmWiki/SitePreferences
+http://sli.ics.uci.edu/PmWiki/Skins
+http://www.pmwiki.org/wiki/PmWiki/Skins
+http://sli.ics.uci.edu/PmWiki/SkinTemplates
+http://sli.ics.uci.edu/PmWiki/SpecialCharacters
+http://sli.ics.uci.edu/PmWiki/Troubleshooting
+http://www.pmwiki.org/wiki/PmWiki/PmWiki
+http://sli.ics.uci.edu/PmWiki/Upgrades
+http://sli.ics.uci.edu/PmWiki/UpgradingFromPmWiki1
+http://sli.ics.uci.edu/PmWiki/UploadsAdmin
+http://sli.ics.uci.edu/PmWiki/UploadVariables
+http://sli.ics.uci.edu/PmWiki/UrlApprovals
+http://sli.ics.uci.edu/PmWiki/UTF-8
+http://sli.ics.uci.edu/PmWiki/Variables
+http://sli.ics.uci.edu/PmWiki/Version
+http://sli.ics.uci.edu/PmWiki/WebFeeds
+http://pmwiki.org/wiki/Site/AllRecentChanges
+http://pmwiki.org/wiki/Category/Skins
+http://sli.ics.uci.edu/PmWiki/WikiFarms
+http://sli.ics.uci.edu/PmWiki/WikiFarmTerminology
+http://sli.ics.uci.edu/PmWiki/WikiGroups
+http://sli.ics.uci.edu/PmWiki/WikiPage
+http://sli.ics.uci.edu/PmWiki/WikiSandbox
+http://sli.ics.uci.edu/PmWiki/WikiStructure
+http://sli.ics.uci.edu/PmWiki/WikiStyleExamples
+http://sli.ics.uci.edu/PmWiki/WikiStyles
+http://sli.ics.uci.edu/PmWiki/WikiTrails
+http://sli.ics.uci.edu/PmWiki/WikiWikiWeb
+http://sli.ics.uci.edu/PmWiki/WikiWord
+http://sli.ics.uci.edu/PmWiki/WikiWords
+http://sli.ics.uci.edu/Profiles/RecentChanges
+http://sli.ics.uci.edu/Projects/RecentChanges
+http://sli.ics.uci.edu/Pubs/RecentChanges
+https://sli.ics.uci.edu/Site/RecentChanges
+https://sli.ics.uci.edu/Site/Status
+https://sli.ics.uci.edu/Classes-CS178-Notes/Matlab
+https://sli.ics.uci.edu/Classes-CS178-Notes/Matlab-Classes
+https://sli.ics.uci.edu/Classes-CS178-Notes/Regression
+https://sli.ics.uci.edu/Classes-CS178-Notes/Classification
+https://sli.ics.uci.edu/Classes-CS178-Notes/KNearestNeighbors
+https://sli.ics.uci.edu/Classes-CS178-Notes/Probability
+https://sli.ics.uci.edu/Classes-CS178-Notes/BayesClassify
+https://sli.ics.uci.edu/Classes-CS178-Notes/LinearClassify
+https://sli.ics.uci.edu/Classes-CS178-Notes/LogisticReg
+https://sli.ics.uci.edu/Classes-CS178-Notes/DecisionTrees
+https://sli.ics.uci.edu/Classes-CS178-Notes/Bagging
+https://sli.ics.uci.edu/Classes-CS178-Notes/KMeans
+https://sli.ics.uci.edu/Classes-CS178-Notes/HierarchAC
+https://sli.ics.uci.edu/Classes-CS178-Notes/GmmEM
+https://sli.ics.uci.edu/Classes-CS178-Notes/PCA
+https://sli.ics.uci.edu/Classes-2008F/Classes-2008F
+https://sli.ics.uci.edu/Classes-2008F/Announcements
+https://sli.ics.uci.edu/Classes-2008F/Outline
+https://sli.ics.uci.edu/Classes-2008F/JigsawPuzzleSolvers
+https://sli.ics.uci.edu/Classes-2008F/RelatedTechniques
+https://sli.ics.uci.edu/Classes-2008F/UsefulBackground
+https://sli.ics.uci.edu/Classes-2008F/CTMSegmentation
+https://sli.ics.uci.edu/Classes-2008F/MLN
+https://sli.ics.uci.edu/Classes-2008F/MarkovianStocks
+https://sli.ics.uci.edu/Classes-2008F/Flocking
+https://sli.ics.uci.edu/Classes-2008F/Tools
+https://sli.ics.uci.edu/Ihler-Photos/Ihler-Photos
+http://mondego.ics.uci.edu/projects/clonedetection/tool/source/
+https://www.linkedin.com/in/ido-singer-293b1815/
+http://www.robgalbraith.com/bins/multi_page.asp
+http://sdcl.ics.uci.edu/
+http://nmsl.cs.nthu.edu.tw/index.php/people
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-mac-setup-guide
+http://kahoabe.net/
+https://wearablegames.ics.uci.edu/wp-login.php
+http://archive.ics.uci.edu/ml/machine-learning-databases/chess/
+https://archive.ics.uci.edu/ml/machine-learning-databases/chorales/
+https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/
+http://archive.ics.uci.edu/ml/machine-learning-databases/logic-theorist/CODE/
+http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/segment/
+http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full/
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/
+http://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/
+http://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/
+http://archive.ics.uci.edu/ml/machine-learning-databases/concrete/
+http://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
+https://archive.ics.uci.edu/ml/machine-learning-databases/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00000/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00192/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00193/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00198/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00199/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00200/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00201/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00202/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00205/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00206/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00207/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00208/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00209/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00214/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00220/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00221/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00222/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00226/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00227/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00230/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00234/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00235/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00236/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00237/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00244/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00246/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00247/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00250/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00258/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00259/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00261/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00263/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00265/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00266/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00267/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00268/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00269/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00270/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00271/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00272/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00273/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00276/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00279/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00283/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00284/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00285/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00287/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00288/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00289/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00293/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00294/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00295/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00297/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00301/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00302/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00306/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00308/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00309/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00310/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00312/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00316/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00317/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00321/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00324/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00325/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00328/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00335/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00336/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00337/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00338/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00339/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00341/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00342/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00343/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00345/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00346/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00351/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00356/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00358/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00361/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00364/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00366/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00367/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00370/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00375/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00376/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00377/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00382/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00385/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00387/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00388/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00392/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00393/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00395/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00397/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00401/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00402/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00408/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00416/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00417/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00418/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00419/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00420/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00421/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00424/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00425/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00426/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00430/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00432/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00435/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00436/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00438/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00439/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00443/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00444/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00445/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00446/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00451/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00453/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00455/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00456/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00457/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00458/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00459/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00460/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00461/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00463/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00464/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00465/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00466/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00468/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00470/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00471/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00472/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00473/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00474/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00477/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00478/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00480/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00482/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00483/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00485/
+https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/
+http://archive.ics.uci.edu/ml/machine-learning-databases/acute/
+https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+http://archive.ics.uci.edu/ml/machine-learning-databases/annealing/
+http://archive.ics.uci.edu/ml/machine-learning-databases/arcene/
+http://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/
+http://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/autos/
+http://archive.ics.uci.edu/ml/machine-learning-databases/badges/
+http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/
+http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/
+http://archive.ics.uci.edu/ml/machine-learning-databases/bridges/
+http://archive.ics.uci.edu/ml/machine-learning-databases/car/
+http://archive.ics.uci.edu/ml/machine-learning-databases/census-income/
+http://archive.ics.uci.edu/ml/machine-learning-databases/cmc/
+http://archive.ics.uci.edu/ml/machine-learning-databases/contacts/
+http://archive.ics.uci.edu/ml/machine-learning-databases/covertype-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/
+http://archive.ics.uci.edu/ml/machine-learning-databases/dermatology/
+http://archive.ics.uci.edu/ml/machine-learning-databases/dexter/
+http://archive.ics.uci.edu/ml/machine-learning-databases/diabetes/
+http://archive.ics.uci.edu/ml/machine-learning-databases/dorothea/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ebl/
+http://archive.ics.uci.edu/ml/machine-learning-databases/echocardiogram/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/
+http://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/flags/
+https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/
+http://archive.ics.uci.edu/ml/machine-learning-databases/gisette/
+http://archive.ics.uci.edu/ml/machine-learning-databases/haberman/
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
+http://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/
+http://archive.ics.uci.edu/ml/machine-learning-databases/horse-colic/
+http://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+http://archive.ics.uci.edu/ml/machine-learning-databases/image/
+http://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/
+http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+http://archive.ics.uci.edu/ml/machine-learning-databases/labor-negotiations/
+http://archive.ics.uci.edu/ml/machine-learning-databases/lenses/
+http://archive.ics.uci.edu/ml/machine-learning-databases/letter-recognition/
+http://archive.ics.uci.edu/ml/machine-learning-databases/lymphography/
+http://archive.ics.uci.edu/ml/machine-learning-databases/madelon/
+http://archive.ics.uci.edu/ml/machine-learning-databases/magic/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mnist-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/
+http://archive.ics.uci.edu/ml/machine-learning-databases/moral-reasoner/
+http://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/msweb-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/
+http://archive.ics.uci.edu/ml/machine-learning-databases/nursery/
+http://archive.ics.uci.edu/ml/machine-learning-databases/othello/
+http://archive.ics.uci.edu/ml/machine-learning-databases/p53/
+http://archive.ics.uci.edu/ml/machine-learning-databases/pendigits/
+http://archive.ics.uci.edu/ml/machine-learning-databases/photo-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/pioneer-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/plants/
+https://archive.ics.uci.edu/ml/machine-learning-databases/poker/
+http://archive.ics.uci.edu/ml/machine-learning-databases/restricted/
+http://archive.ics.uci.edu/ml/machine-learning-databases/secom/
+http://archive.ics.uci.edu/ml/machine-learning-databases/servo/
+http://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
+http://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/
+http://archive.ics.uci.edu/ml/machine-learning-databases/sponge/
+http://archive.ics.uci.edu/ml/machine-learning-databases/synthetic-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/temp_restr/
+http://archive.ics.uci.edu/ml/machine-learning-databases/trains/
+http://archive.ics.uci.edu/ml/machine-learning-databases/university/
+http://archive.ics.uci.edu/ml/machine-learning-databases/utilities/
+http://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/
+http://archive.ics.uci.edu/ml/machine-learning-databases/voting-records/
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine/
+http://archive.ics.uci.edu/ml/machine-learning-databases/yeast/
+http://archive.ics.uci.edu/ml/machine-learning-databases/zoo/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00484/
+https://wics.ics.uci.edu/event/first-general-meeting-social-dbh-6011/
+https://wics.ics.uci.edu/event/wics-mentorship-mixer-2/
+https://wics.ics.uci.edu/event/amazon-workshop-2/
+https://wics.ics.uci.edu/event/blizzard-info-session/
+https://wics.ics.uci.edu/
+https://wics.ics.uci.edu/event/week-1-general-meeting-mentorship-program/
+https://cml.ics.uci.edu/tag/news/page/3/
+https://cml.ics.uci.edu/category/news/page/6/
+https://cml.ics.uci.edu/category/news/page/4/
+http://today.uci.edu/news/release_detail.asp
+http://pqdtopen.proquest.com/#abstract
+http://etext.virginia.edu/bin/tei-tocs
+http://pubweb.parc.xerox.com/map
+http://phwww.cwis.uci.edu/cgi-bin/phwww
+http://www.kiv.zcu.cz/staff/osobni.php
+http://me.nus.edu.sg/people/staff.asp
+http://www.genome.gov/page.cfm
+http://www-i1.informatik.rwth-aachen.de/cgi-bin/personal.cgi
+http://www.cs.elte.hu/cgi-bin/finger_user
+http://www.zpr.uni-koeln.de/~paper/paper.php3
+http://www.lcs.mit.edu/publications/specpub.php
+http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi
+http://www.spie.org/scripts/abstract.pl
+http://www.cse.seas.wustl.edu/techreportfiles/getreport.asp
+http://ieeexplore.ieee.org/xpl/abs_free.jsp
+http://www.ancestry.myfamily.com/subscribe/subscribeplanstx.asp
+http://www.ancestry.myfamily.com/rd/search/dbinforedir.asp
+http://www.ancestry.com/rd/redir.asp
+http://shops.ancestry.com/product.asp
+https://sli.ics.uci.edu/PmWiki/PmWiki
+https://sli.ics.uci.edu/PmWiki/Notify
+https://sli.ics.uci.edu/SiteAdmin/NotifyList
+https://sli.ics.uci.edu/PmWiki/DocumentationIndex
+https://sli.ics.uci.edu/PmWiki/RefCount
+https://sli.ics.uci.edu/PmWiki/Passwords
+https://sli.ics.uci.edu/SiteAdmin/AuthList
+https://sli.ics.uci.edu/PmWiki/WikiGroup
+https://sli.ics.uci.edu/PmWiki/Security
+http://sli.ics.uci.edu/Category/Security
+https://sli.ics.uci.edu/PmWiki/WikiAdministrator
+https://sli.ics.uci.edu/Category/Spam
+https://sli.ics.uci.edu/PmWiki/AvailableActions
+https://sli.ics.uci.edu/PmWiki/SecurityVariables
+https://sli.ics.uci.edu/PmWiki/AuthUser
+https://sli.ics.uci.edu/PmWiki/ConditionalMarkup
+https://sli.ics.uci.edu/PmWiki/GroupCustomizations
+https://sli.ics.uci.edu/PmWiki/BasicEditing
+https://sli.ics.uci.edu/PmWiki/TextFormattingRules
+https://sli.ics.uci.edu/PmWiki/Tables
+https://sli.ics.uci.edu/PmWiki/TableDirectives
+https://sli.ics.uci.edu/PmWiki/PageLists
+https://sli.ics.uci.edu/PmWiki/PageListTemplates
+https://sli.ics.uci.edu/PmWiki/PageVariables
+http://sli.ics.uci.edu/Category/PmWikiDeveloper
+https://sli.ics.uci.edu/PmWiki/PageTextVariables
+https://sli.ics.uci.edu/PmWiki/AccessKeys
+https://sli.ics.uci.edu/PmWiki/Uploads
+https://sli.ics.uci.edu/Profiles/Ihler
+https://sli.ics.uci.edu/AIStats/Postings
+https://sli.ics.uci.edu/Classes/2015F-179-ProjectIdeas
+https://sli.ics.uci.edu/Group-Meetings/2013W
+https://sli.ics.uci.edu/Code/Learners
+https://sli.ics.uci.edu/Library/Posters
+https://sli.ics.uci.edu/Profiles/Priya
+https://sli.ics.uci.edu/Library/Library
+https://sli.ics.uci.edu/Classes-CS271-Notes/SearchHeuristic
+https://sli.ics.uci.edu/Classes-CS271-Notes/Classes-CS271-Notes
+https://sli.ics.uci.edu/Code/MxObjects
+https://sli.ics.uci.edu/Code/MxFactor
+https://sli.ics.uci.edu/Code/MxGraphModel
+https://sli.ics.uci.edu/Classes/NSC
+https://sli.ics.uci.edu/Classes/CS178-Regression
+https://sli.ics.uci.edu/Projects/Vision
+https://sli.ics.uci.edu/Pubs/PubsDB
+https://sli.ics.uci.edu/AIML/PreNIPS2010
+https://sli.ics.uci.edu/AIML/AIML
+https://sli.ics.uci.edu/Notes/NIPS2009
+https://sli.ics.uci.edu/Calendar/Calendar
+https://sli.ics.uci.edu/Competitions/Competitions
+https://sli.ics.uci.edu/Ihler-Photos/Japan-Deva
+https://sli.ics.uci.edu/Classes/CSE181
+https://sli.ics.uci.edu/Grants-2008SciSIP/Main
+http://sli.ics.uci.edu/Grants-2008SciSIP/Grants-2008SciSIP
+https://sli.ics.uci.edu/Grants/2008SciSIP
+https://sli.ics.uci.edu/Grants-2008SciSIP/Summary
+https://sli.ics.uci.edu/Grants-2008NSF/HomePage
+https://sli.ics.uci.edu/Grants-2008NSF/Main
+https://sli.ics.uci.edu/Johutchi-Private/AddSideBar
+https://sli.ics.uci.edu/Johutchi-Private/Johutchi-Private
+https://sli.ics.uci.edu/Group/Johutchi
+https://sli.ics.uci.edu/Classes-2008F/Testing
+https://sli.ics.uci.edu/Classes/2008F-Discussion
+https://sli.ics.uci.edu/Ihler-Private/AddSideBar
+https://sli.ics.uci.edu/Ihler-Private/ScratchPad
+https://sli.ics.uci.edu/Ihler-Private/Charges
+https://sli.ics.uci.edu/Ihler-Private/Personal
+https://sli.ics.uci.edu/Ihler-Private/ToDo
+https://sli.ics.uci.edu/Ihler-Private/ToDo-gtddata
+https://sli.ics.uci.edu/Profiles/Profiles
+https://sli.ics.uci.edu/Ihler-Private/Research
+https://sli.ics.uci.edu/Ihler-Private/WebResources
+https://sli.ics.uci.edu/Ihler-Private/Papers
+https://sli.ics.uci.edu/Ihler-Private/People
+https://sli.ics.uci.edu/Ihler-Private/Ihler-Private
+https://sli.ics.uci.edu/Group/SideBar
+https://sli.ics.uci.edu/Misc/Willsky
+https://sli.ics.uci.edu/Classes/CS274A-Notes
+https://sli.ics.uci.edu/Ihler-Photos/House
+https://sli.ics.uci.edu/Main/WikiSandbox
+https://sli.ics.uci.edu/AIML/RecentChanges
+https://sli.ics.uci.edu/AIStats/RecentChanges
+https://sli.ics.uci.edu/Calendar/RecentChanges
+https://sli.ics.uci.edu/Category/GroupFooter
+https://sli.ics.uci.edu/Classes-2008/RecentChanges
+https://sli.ics.uci.edu/Classes-2008F/GroupAttributes
+https://sli.ics.uci.edu/Classes-2008F/RecentChanges
+https://sli.ics.uci.edu/Classes-CS178-Notes/GroupAttributes
+https://sli.ics.uci.edu/Classes-CS18-Notes/RecentChanges
+https://sli.ics.uci.edu/Classes/RecentChanges
+https://sli.ics.uci.edu/Code/RecentChanges
+https://sli.ics.uci.edu/Competitions/RecentChanges
+https://sli.ics.uci.edu/Grants/RecentChanges
+https://sli.ics.uci.edu/Group-Meetings/RecentChanges
+https://sli.ics.uci.edu/Group/RecentChanges
+https://sli.ics.uci.edu/Ihler-Photos/RecentChanges
+https://sli.ics.uci.edu/Ihler/RecentChanges
+https://sli.ics.uci.edu/Library/RecentChanges
+https://sli.ics.uci.edu/Main/RecentChanges
+https://sli.ics.uci.edu/Misc/RecentChanges
+https://sli.ics.uci.edu/Notes/RecentChanges
+https://sli.ics.uci.edu/PmWiki/Audiences
+https://sli.ics.uci.edu/PmWiki/BackupAndRestore
+https://sli.ics.uci.edu/PmWiki/BasicVariables
+https://sli.ics.uci.edu/SiteAdmin/ApprovedUrls
+https://sli.ics.uci.edu/PmWiki/Blocklist
+https://sli.ics.uci.edu/SiteAdmin/Blocklist
+https://sli.ics.uci.edu/PmWiki/BlockMarkup
+https://sli.ics.uci.edu/PmWiki/Categories
+https://sli.ics.uci.edu/PmWiki/ChangeLog
+https://sli.ics.uci.edu/SiteAdmin/Status
+https://sli.ics.uci.edu/PmWiki/ChangesFromPmWiki1
+https://sli.ics.uci.edu/PmWiki/ContactUs
+https://sli.ics.uci.edu/PmWiki/Contributors
+https://sli.ics.uci.edu/PmWiki/CreatingNewPages
+https://sli.ics.uci.edu/PmWiki/InterMap
+https://sli.ics.uci.edu/Site/InterMap
+https://sli.ics.uci.edu/PmWiki/CustomWikiStyles
+https://sli.ics.uci.edu/PmWiki/DebugVariables
+https://sli.ics.uci.edu/PmWiki/DeletingPages
+http://sli.ics.uci.edu/Category/Maintenance
+https://sli.ics.uci.edu/PmWiki/DesignNotes
+https://sli.ics.uci.edu/PmWiki/Drafts
+https://sli.ics.uci.edu/PmWiki/EditVariables
+https://sli.ics.uci.edu/PmWiki/FilePermissions
+https://sli.ics.uci.edu/PmWiki/FmtPageName
+https://sli.ics.uci.edu/PmWiki/Forms
+https://sli.ics.uci.edu/PmWiki/Functions
+https://sli.ics.uci.edu/PmWiki/Glossary
+https://sli.ics.uci.edu/PmWiki/GroupFooter
+https://sli.ics.uci.edu/PmWiki/GroupHeader
+https://sli.ics.uci.edu/PmWiki/GroupHeaders
+https://sli.ics.uci.edu/PmWiki/I18nVariables
+https://sli.ics.uci.edu/PmWiki/Images
+https://sli.ics.uci.edu/PmWiki/IncludeOtherPages
+https://sli.ics.uci.edu/PmWiki/InitialSetupTasks
+https://sli.ics.uci.edu/PmWiki/Installation
+https://sli.ics.uci.edu/PmWiki/Internationalizations
+https://sli.ics.uci.edu/PmWiki/Introduction
+https://sli.ics.uci.edu/PmWiki/LayoutVariables
+https://sli.ics.uci.edu/PmWiki/Links
+https://sli.ics.uci.edu/PmWiki/LinkVariables
+https://sli.ics.uci.edu/PmWiki/LocalCustomizations
+https://sli.ics.uci.edu/PmWiki/MailingLists
+https://sli.ics.uci.edu/PmWiki/MailPosts
+https://sli.ics.uci.edu/PmWiki/MarkupExpressions
+https://sli.ics.uci.edu/PmWiki/MarkupMasterIndex
+https://sli.ics.uci.edu/PmWiki/OtherVariables
+https://sli.ics.uci.edu/PmWiki/PageDirectives
+https://sli.ics.uci.edu/PmWiki/PageFileFormat
+https://sli.ics.uci.edu/PmWiki/PageHistory
+https://sli.ics.uci.edu/PmWiki/PagelistVariables
+https://sli.ics.uci.edu/PmWiki/PathVariables
+https://sli.ics.uci.edu/PmWiki/PatrickMichaud
+https://sli.ics.uci.edu/PmWiki/PmWikiPhilosophy
+https://sli.ics.uci.edu/PmWiki/ReleaseNotes
+https://sli.ics.uci.edu/PmWiki/SiteAnalyzer
+https://sli.ics.uci.edu/PmWiki/Requirements
+https://sli.ics.uci.edu/PmWiki/Search
+https://sli.ics.uci.edu/PmWiki/SimultaneousEdits
+https://sli.ics.uci.edu/PmWiki/Skins
+https://sli.ics.uci.edu/PmWiki/SpecialCharacters
+https://sli.ics.uci.edu/PmWiki/Troubleshooting
+https://sli.ics.uci.edu/PmWiki/Upgrades
+https://sli.ics.uci.edu/PmWiki/UpgradingFromPmWiki1
+https://sli.ics.uci.edu/PmWiki/UploadsAdmin
+https://sli.ics.uci.edu/PmWiki/UploadVariables
+https://sli.ics.uci.edu/PmWiki/UrlApprovals
+https://sli.ics.uci.edu/PmWiki/UTF-8
+https://sli.ics.uci.edu/PmWiki/Variables
+https://sli.ics.uci.edu/PmWiki/Version
+https://sli.ics.uci.edu/PmWiki/WebFeeds
+https://sli.ics.uci.edu/PmWiki/WikiFarms
+https://sli.ics.uci.edu/PmWiki/WikiFarmTerminology
+http://sli.ics.uci.edu/Category/WikiFarms
+https://sli.ics.uci.edu/PmWiki/WikiPage
+https://sli.ics.uci.edu/PmWiki/WikiStructure
+https://sli.ics.uci.edu/PmWiki/WikiStyleExamples
+https://sli.ics.uci.edu/PmWiki/WikiStyles
+https://sli.ics.uci.edu/PmWiki/WikiTrails
+https://sli.ics.uci.edu/PmWiki/WikiWikiWeb
+https://sli.ics.uci.edu/PmWiki/WikiWord
+https://sli.ics.uci.edu/Projects/RecentChanges
+https://sli.ics.uci.edu/Pubs/RecentChanges
+http://ngs.ics.uci.edu/blog/
+http://research.microsoft.com/scripts/pubs/view.asp
+http://www.iesve.com/content/default.asp
+https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00000/download.htm
+http://archive.ics.uci.edu/ml/machine-learning-databases/00222/
+http://www.biosigdata.com/wp-login.php
+http://www.biosigdata.com/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00471/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00473/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00474/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00480/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00482/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00485/
+http://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+http://archive.ics.uci.edu/ml/machine-learning-databases/arcene/ARCENE/
+http://archive.ics.uci.edu/ml/machine-learning-databases/dexter/DEXTER/
+http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
+http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/costs/
+http://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/costs/
+http://archive.ics.uci.edu/ml/machine-learning-databases/madelon/MADELON/
+http://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/
+http://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/unused/
+http://archive.ics.uci.edu/ml/machine-learning-databases/wine/
+https://wics.ics.uci.edu/event/week-0-meet-and-greet/
+https://wics.ics.uci.edu/event/project-meeting/
+https://cml.ics.uci.edu/tag/news/page/4/
+https://cml.ics.uci.edu/tag/news/page/2/
+https://cml.ics.uci.edu/category/news/page/7/
+https://cml.ics.uci.edu/category/news/page/3/
+https://cml.ics.uci.edu/2007/12/2007_newfaculty/
+http://awards.acm.org/homepage.cfm
+http://webcrawler.cs.washington.edu/cgi-bin/WebQuery
+http://c.gp.cs.cmu.edu:5103/prog/webster
+http://www.info.apple.com/cgi-bin/prodspec-pl
+http://www.info.apple.com/cgi-bin/lister-pl
+http://www.cm.cf.ac.uk/M/title-exact
+http://sunsite.nus.sg/cgi-bin/imagemap/seamap
+http://query1.lycos.cs.cmu.edu/cgi-bin/pursuit
+http://agent2.lycos.cs.cmu.edu/cgi-bin/pursuit
+http://www.springerlink.com/link.asp
+https://sli.ics.uci.edu/PmWiki/GroupAttributes
+https://sli.ics.uci.edu/PmWiki/RecentChanges
+https://sli.ics.uci.edu/Category/Security
+https://sli.ics.uci.edu/Cookbook/CSVAction
+https://sli.ics.uci.edu/PmWiki/GroupName
+https://sli.ics.uci.edu/PmWiki/NonexistentPages
+https://sli.ics.uci.edu/Category/PmWikiDeveloper
+https://sli.ics.uci.edu/PmWiki/FullName
+https://sli.ics.uci.edu/Classes-CS271-Notes/SearchBlind
+https://sli.ics.uci.edu/Classes-CS271-Notes/SearchLocal
+https://sli.ics.uci.edu/Classes-CS271-Notes/GameTrees
+https://sli.ics.uci.edu/Classes-CS271-Notes/MCTS
+https://sli.ics.uci.edu/Grants-2008SciSIP/Grants-2008SciSIP
+https://sli.ics.uci.edu/Classes-2008/Main
+https://sli.ics.uci.edu/PmWiki/LinkSchemes
+https://sli.ics.uci.edu/PmWiki/MyNewPage
+https://sli.ics.uci.edu/PmWiki/CustomInterMap
+https://sli.ics.uci.edu/Category/Maintenance
+https://sli.ics.uci.edu/PmWikiFr/XLPage
+https://sli.ics.uci.edu/Profiles/Author
+https://sli.ics.uci.edu/PmWiki/PerGroupCustomizations
+https://sli.ics.uci.edu/Category/WikiFarms
+https://sli.ics.uci.edu/PmWiki/WikiGroups
+https://sli.ics.uci.edu/PmWiki/WikiSandbox
+https://sli.ics.uci.edu/PmWiki/WikiWords
+https://ngs.ics.uci.edu/blog/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00464/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00470/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00472/
+https://wics.ics.uci.edu/event/anteater-involvement-fair/
+https://wics.ics.uci.edu/event/project-meeting-2/
+https://cml.ics.uci.edu/tag/news/page/5/
+https://cml.ics.uci.edu/tag/news/
+https://cml.ics.uci.edu/category/news/page/8/
+https://cml.ics.uci.edu/category/news/page/2/
+https://cml.ics.uci.edu/2007/12/2007_yahoogift/
+http://cybersight.com/cgi-bin/cs/s
+http://cybersight.com/cgi-bin/cs/ballot/oj
+http://docfinder.ncsa.uiuc.edu:7999/bin/finder
+http://localhost/cgi-bin/man/man2html
+http://www.nytimes.com/2008/11/23/business/23novelties.html
+https://wics.ics.uci.edu/event/wics-study-session/
+https://cml.ics.uci.edu/tag/news/page/6/
+https://cml.ics.uci.edu/category/news/
+http://finapps.forbes.com/finapps/jsp/finance/compinfo/CIAtAGlance.jsp
+http://www.forbes.com/markets/company_news.jhtml
+http://www.forbes.com/peopletracker/results.jhtml
+http://blogs.zdnet.com/Dyson/
+http://lulop.org/open/
+http://blogs.zdnet.com/emergingtech/
+http://www.facebook.com/photos.php
+http://www.autocarsinsurance.net/
+http://www.nytimes.com/2009/12/09/business/global/09innovate.html
+http://www.opentext.com/livelink/modules/modules.asp
+http://www.oracle.com/corporate/press/index.html
+https://wics.ics.uci.edu/event/mentorship-banquet/
+https://wics.ics.uci.edu/events/2018-06-04/
+https://wics.ics.uci.edu/event/ics-banquet/
+https://wics.ics.uci.edu/event/week-3-resume-workshop/
+http://www.goarticles.com/cgi-bin/showa.cgi
+http://www.nytimes.com/2008/11/29/opinion/29mehta.html
+http://www.nytimes.com/2007/02/15/technology/15video.html
+http://www.nytimes.com/2006/07/31/technology/31motion.html
+http://knoesis.wright.edu/library/resource.php
+http://realurl.org/twitted.php
+http://online.wsj.com/article/SB123413407376461353.html
+https://wics.ics.uci.edu/events/2018-04-30/
+https://wics.ics.uci.edu/event/study-session-snack-study/
+https://wics.ics.uci.edu/events/2018-05-07/
+https://wics.ics.uci.edu/event/the-portal-2/
+https://wics.ics.uci.edu/event/the-portal/
+https://wics.ics.uci.edu/events/2018-05-17/
+https://wics.ics.uci.edu/event/google-tour/
+https://wics.ics.uci.edu/events/2018-05-21/
+https://wics.ics.uci.edu/event/amazon-workshop/
+https://wics.ics.uci.edu/event/project-meeting-3/
+http://www.technologyreview.com/communications/21696/
+http://online.wsj.com/article/SB115154294947593762.html
+http://inventionanswers.com/
+http://www.nytimes.com/2007/02/03/technology/03search.html
+http://news.com.com/Kodak+flashes+two+new+cameras/2100-1041_3-6103259.html
+http://blogs.zdnet.com/BTL/
+http://www.nytimes.com/2006/11/12/business/12web.html
+http://knowledge.wharton.upenn.edu/article.cfm
+http://www.technologyreview.com/read_article.aspx
+http://www.eetimes.de/bus/news/showArticle.jhtml
+http://www.redherring.com/Article.aspx
+http://www.madeonamobile.com/
+http://www.facebook.com/ext/share.php
+http://www.nytimes.com/2009/02/11/opinion/11friedman.html
+http://www.nytimes.com/2008/09/14/technology/14novel.html
+http://www.nytimes.com/2008/07/31/science/31computer.html
+http://www.nytimes.com/2009/02/03/technology/start-ups/03angel.html
+http://www.luiscorreia.com/teste/blog/wordpress/
+http://radar34567.info/
+https://wics.ics.uci.edu/event/wics-general-meeting-2/
+https://wics.ics.uci.edu/event/intuit-workshop/
+https://wics.ics.uci.edu/events/2018-04-23/
+https://wics.ics.uci.edu/event/blind-squirrel-event/
+https://wics.ics.uci.edu/event/autogravity-job-shadowing/
+https://wics.ics.uci.edu/event/project-meeting-4/
+http://www.nytimes.com/2007/04/05/business/05scan.html
+http://www.amillionpenguins.com/wiki/index.php
+http://www.nytimes.com/2006/11/09/technology/09venture.html
+http://en.wikipedia.org/w/index.php
+http://www.nytimes.com/2006/11/14/technology/14tivo.html
+http://seraja.com/handler.do
+http://technologyreview.com/read_article.aspx
+http://online.wsj.com/article/SB114670909113943444.html
+http://www.elatable.com/blog/
+http://daily.stanford.edu/tempo
+http://www.nytimes.com/2009/08/24/technology/internet/24emotion.html
+http://www.multimedia.blogsq10.com/
+http://www.nytimes.com/2009/03/02/opinion/02tamamoto.html
+http://www.boston.com/bostonglobe/ideas/articles/2008/01/20/third_world_first/
+http://buy.xltblog.info/
+http://www.nytimes.com/2009/01/02/opinion/02das.html
+http://www.nytimes.com/2008/12/27/business/27record.html
+http://blogs.zdnet.com/Ou/
+http://host.dom/form-handler
+http://host/path/resource
+http://host/cgi-bin/tool.pl
+http://host/cgi-bin/x/tool.pl
+http://host/cgi-bin/tool.pl/x
+http://host/cgi-bin/application;version=Y
+http://host/cgi-bin/application
+http://host/cgi-bin/application/Y
+http://foo.bar.com/1.1/background.gif
+https://wics.ics.uci.edu/events/2018-02-26/
+https://wics.ics.uci.edu/event/amazon-interview-workshop/
+https://wics.ics.uci.edu/events/2018-03-12/
+https://wics.ics.uci.edu/event/tba/
+http://mediadistricts.com/
+http://www.ashishontech.com/
+http://www.nytimes.com/2007/02/19/technology/19video.html
+http://www.you2lazy.com/
+http://online.wsj.com/article/SB114717839352947700.html
+http://www.nytimes.com/2006/02/27/technology/27mobile.html
+http://www.nytimes.com/2005/12/11/business/yourmoney/11micro.html
+http://online.wsj.com/article/SB123363337385542629.html
+http://www.nytimes.com/2008/08/31/technology/31novel.html
+http://www.iht.com/bin/print.php
+http://www.imhocorp.com/
+http://freedombloghost.info/
+https://wics.ics.uci.edu/event/round-1-social/
+https://wics.ics.uci.edu/event/wics-study-session-2/
+https://wics.ics.uci.edu/event/wics-group-tech-interview-practice/
+https://wics.ics.uci.edu/event/presidents-day-2/
+https://wics.ics.uci.edu/events/2018-02-21/
+https://wics.ics.uci.edu/event/redfin-resume-workshop/
+https://wics.ics.uci.edu/event/project-meeting-5/
+http://money.cnn.com/galleries/2007/biz2/0702/gallery.nextnet.biz2/
+http://www.nytimes.com/2006/04/09/travel/09prac.html
+http://online.wsj.com/article/SB114463202813921449.html
+http://www.informationweek.com/news/showArticle.jhtml
+http://news.com.com/Shedding+light+on+Flickr/2100-1025_3-5997943.html
+http://makeclean.iobloggo.com/archive.php
+http://lulop.org/open/index.php
+http://www.news-gazette.com/localnews/story.cfm
+http://www.nytimes.com/2005/11/22/arts/design/22vide.html
+http://online.wsj.com/article/SB123318220741726161.html
+http://www.nytimes.com/2009/01/18/business/media/18ping.html
+http://www.nytimes.com/2009/01/15/opinion/15kristof.html
+http://www.nytimes.com/2008/12/24/opinion/24friedman.html
+http://www.nytimes.com/2008/08/30/world/asia/30caste.html
+http://www.ezineaerticles.com/business/
+http://movies.mediadistricts.com/
+http://uwnews.washington.edu/ni/article.asp
+http://gosecondlife.nl/test/
+http://www.nytimes.com/2007/05/08/technology/08photo.html
+https://wics.ics.uci.edu/events/2018-01-08/
+https://wics.ics.uci.edu/event/general-meeting-in-ics-432/
+https://wics.ics.uci.edu/events/2018-01-15/
+https://wics.ics.uci.edu/event/martin-luther-king-day-2/
+https://wics.ics.uci.edu/events/2018-01-22/
+https://wics.ics.uci.edu/event/wics-networking-event/
+https://wics.ics.uci.edu/event/mock-technical-interviews/
+https://wics.ics.uci.edu/event/week-5-northrop-grumman-workshop/
+http://biz.yahoo.com/rb/061003/amazon_search.html
+http://online.wsj.com/article/SB115646646975445112.html
+http://www.nytimes.com/2005/11/24/technology/circuits/24pogue.html
+http://www.nytimes.com/2005/08/24/nyregion/24mta.html
+http://images.google.com/images
+http://www.nytimes.com/2007/03/17/business/17online.html
+https://wics.ics.uci.edu/event/thanksgiving/
+http://www.nytimes.com/2007/02/26/technology/26ecom.html
+http://online.wsj.com/article/SB115517681087331814.html
+http://www.nytimes.com/2005/10/09/national/09robot.html
+http://www.wired.com/wired/archive/13.09/yahoo.html
+http://www.fortune.com/fortune/peterlewis/0,15704,1096767,00.html
+http://samachar.com/showurl.php
+http://online.wsj.com/article/SB118057710129119550.html
+http://www.ted.com/tedtalks/tedtalksplayer.cfm
+http://www.seraja.com/experience.jsp
+https://wics.ics.uci.edu/events/2017-11-06/
+https://wics.ics.uci.edu/event/amazon-event/
+https://wics.ics.uci.edu/events/2017-11-20/
+https://wics.ics.uci.edu/event/wics-group-mock-interviews/
+https://wics.ics.uci.edu/events/2017-11-23/
+https://wics.ics.uci.edu/events/2017-11-24/
+https://wics.ics.uci.edu/events/2017-11-25/
+https://wics.ics.uci.edu/event/project-meeting-6/
+http://www.news.com/8301-10784_3-9868169-7.html
+http://online.wsj.com/article/SB114247750570299759.html
+http://online.wsj.com/article/SB114248254088599844.html
+http://www.nytimes.com/2006/01/07/technology/07video.html
+http://www.nytimes.com/2008/09/21/technology/21ping.html
+http://www.nytimes.com/2007/01/17/technology/17porn.html
+http://www.nytimes.com/2007/05/13/world/asia/13nagpur.html
+http://www.nytimes.com/2007/03/27/arts/27tube.html
+http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html
+https://wics.ics.uci.edu/events/2017-10-02/
+https://wics.ics.uci.edu/events/2017-10-09/
+https://wics.ics.uci.edu/events/2017-10-12/
+https://wics.ics.uci.edu/event/intuit-data-science-tech-talk/
+https://wics.ics.uci.edu/events/2017-10-16/
+https://wics.ics.uci.edu/event/wics-games/
+https://wics.ics.uci.edu/events/2017-10-18/
+https://wics.ics.uci.edu/event/facebook-event-with-icssc/
+https://wics.ics.uci.edu/events/2017-10-23/
+https://wics.ics.uci.edu/event/wics-mentorship-reveal/
+https://wics.ics.uci.edu/event/tba-2/
+http://news.zdnet.com/2100-9595_22-5981119.html
+http://www.nytimes.com/2007/01/17/technology/17settop.html
+http://www.nytimes.com/2007/05/21/world/asia/21india.html
+http://www.nytimes.com/2007/03/11/us/11separate.html
+https://wics.ics.uci.edu/event/anteater-involvement-fair-3/
+https://wics.ics.uci.edu/event/ics-deans-welcome/
+https://wics.ics.uci.edu/event/ics-scavenger-hunt-2/
+http://www.asuci.uci.edu/applications/
+https://wics.ics.uci.edu/event/video-game-night-with-faculty/
+http://www.nytimes.com/2008/02/10/education/10global.html
+http://adage.com/digital/article
+http://www.nytimes.com/2006/08/13/us/13gates.html
+http://www.nytimes.com/2006/10/15/us/15census.html
+http://www.nytimes.com/2006/10/17/world/asia/17india.html
+http://www.alphagalileo.org/index.cfm
+http://claim-blog.freedombloghost.info/
+http://www.nytimes.com/2006/12/10/arts/music/10pare.html
+http://www.nytimes.com/2006/11/30/technology/30laptop.html
+http://www.nytimes.com/2006/10/12/technology/12tube.html
+https://wics.ics.uci.edu/event/week-10-mentorship-banquet/
+https://wics.ics.uci.edu/event/project-meeting-7/
+http://www.informationweek.com/story/showArticle.jhtml
+http://www.economist.com/science/tq/displayStory.cfm
+http://www.nytimes.com/2006/11/29/technology/29bitt.html
+https://wics.ics.uci.edu/event/week-10-ics-banquet/
+https://wics.ics.uci.edu/event/project-meeting-8/
+http://www.khaitan.org/blog/
+http://www.nytimes.com/2005/09/09/business/media/09online.html
+http://bestposts.info/football/
+http://tom-brady.toblogornottoblog.info/
+https://wics.ics.uci.edu/event/week-9-ics-potluck-3/
+https://wics.ics.uci.edu/event/wics-wk8-thanksgiving-potluck/
+http://www.dailybruin.ucla.edu/news/articles.asp
+https://wics.ics.uci.edu/event/week-8-autogravity-job-shadowing/
+https://wics.ics.uci.edu/event/week-9-cia-info-session/
+http://stevesanderson.collectiveleap.com/
+http://www.nytimes.com/2005/09/24/technology/24yahoo.html
+https://wics.ics.uci.edu/event/week-8-a-career-in-cybersecurity-panel/
+https://wics.ics.uci.edu/event/websites-due/
+https://wics.ics.uci.edu/event/hour-of-code-workshop/
+https://wics.ics.uci.edu/event/project-meeting-awards/
+http://www.nytimes.com/2005/10/28/travel/escapes/28virtual.html
+https://wics.ics.uci.edu/event/first-winter-quarter-meeting/
+http://www.nytimes.com/2005/10/27/technology/circuits/27share.html
+http://biz.yahoo.com/ap/051026/israel_bill_gates.html
+http://www.nytimes.com/2005/10/23/movies/23ande.html
+http://www.nytimes.com/2005/10/23/magazine/23wwln.html
+http://www.hup.harvard.edu/catalog.php
+
+Traps Found:
+https://www.ics.uci.edu/community/news/view_news 1498
+https://www.ics.uci.edu/faculty/ 983
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php 1331
+https://www.ics.uci.edu/community/news/view_news.php 1169
+https://www.youtube.com/watch 1825
+https://swiki.ics.uci.edu/doku.php/announce:announce 1764
+http://jigsaw.w3.org/css-validator/check/referer 1232
+https://www.ics.uci.edu/faculty/index.php 956
+http://portal.acm.org/citation.cfm 1006
+https://evoke.ics.uci.edu/ 3380
+https://swiki.ics.uci.edu/doku.php/services:webmail 1702
+https://swiki.ics.uci.edu/doku.php/start 2677
+https://eee.uci.edu/toolbox/roomfinder/class.php 3857
+https://portal.acm.org/citation.cfm 1315
+https://grape.ics.uci.edu/wiki/asterix/wiki/stats170ab-2018 3181
+https://jgarcia.ics.uci.edu/ 626
+https://swiki.ics.uci.edu/doku.php/announce:winter-2019 1411
+https://swiki.ics.uci.edu/doku.php/projects:maint-winter-2019 752
+https://swiki.ics.uci.edu/doku.php/announce:fall-2018 1737
+https://swiki.ics.uci.edu/doku.php/projects:maint-fall-2018 951
+https://swiki.ics.uci.edu/doku.php/announce:summer-2018 1411
+https://swiki.ics.uci.edu/doku.php/projects:maint-summer-2018 752
+https://swiki.ics.uci.edu/doku.php/slides 1874
+https://swiki.ics.uci.edu/doku.php/brownbags 1872
+http://sli.ics.uci.edu/Pubs/Pubs 2320
+https://cbcl.ics.uci.edu/doku.php 667
+https://cbcl.ics.uci.edu/doku.php/software 677
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2019-winter 986
+http://www.w3schools.com/asp/showasp.asp 1236
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall 5244
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall 6031
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring 4045
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-winter 4149
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall 5334
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall 5864
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-spring 4090
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter 2944
+https://grape.ics.uci.edu/wiki/public/wiki/cs122a-2016-spring 4428
+https://swiki.ics.uci.edu/doku.php/announce:spring-2018 1411
+https://swiki.ics.uci.edu/doku.php/projects:maint-spring-2018 752
+https://swiki.ics.uci.edu/doku.php/announce:winter-2018 1411
+https://swiki.ics.uci.edu/doku.php/projects:maint-winter-2018 752
+https://swiki.ics.uci.edu/doku.php/announce:sprint-2018 1411
+https://swiki.ics.uci.edu/doku.php/announce:spring-2017 1411
+https://swiki.ics.uci.edu/doku.php/projects:maint-fall 1735
+https://swiki.ics.uci.edu/doku.php/hardware:storage:cybertron 710
+https://ganglia.ics.uci.edu/ 1695
+
+Part Four:
+Longest Page: http://mondego.ics.uci.edu/datasets/maven-contents.txt
+
+Part Five:
+('0', 2508894)
+('1', 1889933)
+('sourcerer', 1503945)
+('married', 1294355)
+('2', 1174948)
+('3', 896587)
+('maven', 811975)
+('14', 805476)
+('06', 799144)
+('07', 796767)
+('2012', 775948)
+('jar', 722855)
+('jan', 650945)
+('4', 633867)
+('15', 632510)
+('may', 628943)
+('dec', 625981)
+('jun', 612143)
+('org', 609319)
+('5x', 608448)
+('mar', 593685)
+('5', 581741)
+('oct', 565006)
+('sep', 563599)
+('aug', 554350)
+('4x', 546687)
+('5o', 545399)
+('jul', 535946)
+('rwxrwxrwx', 533812)
+('apr', 531851)
+('nov', 531828)
+('ny', 529918)
+('feb', 528668)
+('4o', 526709)
+('6', 470375)
+('krakow', 462131)
+('8', 456907)
+('family', 436283)
+('7', 433009)
+('10', 423998)
+('9', 414830)
+('6x', 377363)
+('d', 376635)
+('12', 359251)
+('6o', 354866)
+('3x', 342014)
+('11', 337622)
+('17', 326200)
+('3o', 318230)
+('de', 317783)
